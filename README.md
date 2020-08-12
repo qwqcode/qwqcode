@@ -12,5 +12,5 @@
   - That is to say, it is not very professional.
   - I will work harder to improve my knowledge.
 - 🤔 I'm looking for help on how to get into a better university.
-  - ~My grades in school are very bad currently. TAT~
+  - ~My grades in school are very bad currently. (´இ皿இ｀)~
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)

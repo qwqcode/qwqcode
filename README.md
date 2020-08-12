@@ -14,3 +14,5 @@
 - 🤔 I'm looking for help on how to get into a better university.
   - ~My grades in school are very bad currently. (´இ皿இ｀)~
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)
+
+ ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)

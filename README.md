@@ -1,3 +1,5 @@
+![qwqcode's github stats](https://github-readme-stats.vercel.app/api?username=qwqcode&theme=tokyonight)
+
 ### Hi there, I am qwqcode 👋
 
 - 🔭 I’m currently studying in a unknown high school as a senior three students.

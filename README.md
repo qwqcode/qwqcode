@@ -12,7 +12,7 @@
 - 🚲 Always spanning back and forth between the web front-end and the back-end.
 - 🌚 But what I learned was not systematic actually.
   - That is to say, it is not very professional.
-  - I will work harder to improve my knowledge.
+  - Therefore, must work harder to improve my knowledge.
 - 🤔 I'm looking for help on how to get into a better university.
   - ~My grades in school are very bad currently. (´இ皿இ｀)~
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)

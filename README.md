@@ -14,7 +14,7 @@
   - That is to say, it is not very professional.
   - Therefore, must work harder to improve my knowledge.
 - 🤔 I'm looking for help on how to get into a not-too-bad university.
-  - ~My grades in school are very bad currently. (´இ皿இ｀)~
+  - <sub>~WO ZAI XUE XIAO SHI VEGETABLE CHICKEN(´இ皿இ｀)~</sub>
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)
 
  ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)

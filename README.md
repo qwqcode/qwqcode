@@ -13,7 +13,7 @@
 - 🌚 But what I learned was not systematic actually.
   - That is to say, it is not very professional.
   - Therefore, must work harder to improve my knowledge.
-- 🤔 I'm looking for help on how to get into a better university.
+- 🤔 I'm looking for help on how to get into a not-too-bad university.
   - ~My grades in school are very bad currently. (´இ皿இ｀)~
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)
 

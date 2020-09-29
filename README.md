@@ -10,7 +10,7 @@
 - 🥪 I ~may~ (will) be a full-stack programmer.
 - 👀 I have taught myself a lot of computer programming languages and knowledge about computer over these years.
 - 🚲 Always spanning back and forth between the web front-end and the back-end.
-- 🌚 But what I learned was not systematic.
+- 🌚 But what I learned was not systematic actually.
   - That is to say, it is not very professional.
   - I will work harder to improve my knowledge.
 - 🤔 I'm looking for help on how to get into a better university.

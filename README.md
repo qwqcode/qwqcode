@@ -1,4 +1,4 @@
-![qwqcode's github stats](https://github-readme-stats.vercel.app/api?username=qwqcode&theme=tokyonight)
+![](https://user-images.githubusercontent.com/22412567/89914023-fb3a6e80-dc26-11ea-82ba-5ed80e2ffb69.jpg)
 
 ### Hi there, I am qwqcode 👋
 
@@ -17,4 +17,6 @@
   - <sub>~WO ZAI XUE XIAO SHI VEGETABLE CHICKEN(´இ皿இ｀)~</sub>
 - 📫 How to reach me: [QWQAQ's Blog](https://qwqaq.com)
 
- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
+![qwqcode's github stats](https://github-readme-stats.vercel.app/api?username=qwqcode&theme=tokyonight)
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)

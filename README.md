@@ -10,6 +10,8 @@
 - [Bilibili](https://space.bilibili.com/9124283)
 - [E-mail](mailto:qwqcode@gmail.com)
 
+### Something about me
+
 - 🛤 I’m currently studying in a unknown high school as a senior three students.
 - 📝 I’m currently learning conventional curriculum in an ordinary Chinese school.
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.

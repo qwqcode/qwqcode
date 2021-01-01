@@ -27,3 +27,5 @@
   - <sub>~WO ZAI XUE XIAO SHI VEGETABLE CHICKEN(´இ皿இ｀)~</sub>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwqcode&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>

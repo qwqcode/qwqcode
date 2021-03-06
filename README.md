@@ -16,7 +16,7 @@
 
 - 🛤 I’m currently studying in an ordinary common high school as a senior three student in China.
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
-- 🌅 I also love photography and design, watching anime and music.
+- 🌅 I also love photography and design, anime and music.
 - 💦 I'm always sleepy (or you can buy me boba to wake me up!)
 - 🥪 I ~may~ (will) be a full-stack programmer.
 - 👀 I have taught myself a lot of computer programming languages and knowledge about computer over these years.

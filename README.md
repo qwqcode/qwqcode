@@ -14,8 +14,7 @@
 
 ### Something about me
 
-- 🛤 I’m currently studying in a unknown high school as a senior three student.
-- 📝 I’m currently learning conventional curriculum in an ordinary Chinese school.
+- 🛤 I’m currently studying in an ordinary common high school as a senior three student in China.
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
 - 🌅 I also love photography and design, watching anime and music.
 - 💦 I'm always sleepy (or you can buy me boba to wake me up!)

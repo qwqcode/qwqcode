@@ -1,0 +1,37 @@
+
+name: 'GaoKao Countdown'
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  #watch:
+  #  types: [started]
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Update
+        run: count=$(expr '(' $(date -d 2021/6/7 +%s) - $(date +%s) + 86399 ')' / 86400);sed -i -E "s/(<gk>).*(<\/gk>)/\1🎐 <b>高考<\/b>仅剩 <b>$count<\/b> 天\2/" README.md
+
+      - name: Commit
+        env:
+          TZ: Asia/Shanghai
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m \
+          ":pencil: Update at \
+          $(date +"%Y-%m-%d %H:%M") \
+          "
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}

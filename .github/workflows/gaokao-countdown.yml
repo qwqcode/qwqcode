@@ -18,7 +18,7 @@ jobs:
         uses: actions/checkout@v2
 
       - name: Update
-        run: count=$(expr '(' $(date -d 2021/6/7 +%s) - $(date +%s) + 86399 ')' / 86400);sed -i -E "s/(<gk>).*(<\/gk>)/\1🎐 <b>高考<\/b>仅剩 <b>$count<\/b> 天\2/" README.md
+        run: count=$(expr '(' $(date -d 2021/6/6 +%s) - $(date +%s) + 86399 ')' / 86400);sed -i -E "s/(<gk>).*(<\/gk>)/\1🎐 <b>高考<\/b>仅剩 <b>$count<\/b> 天\2/" README.md
 
       - name: Commit
         env:

@@ -23,9 +23,8 @@
 - 🚲 Always spanning back and forth between the web front-end and the back-end.
 - 🌚 But what I learned was not systematic actually.
   - That is to say, it is not very professional.
-  - Therefore, must work harder to improve my knowledge.
-- 🤔 I'm looking for help on how to get into a not-too-bad university.
-  - <sub>~WO ZAI XUE XIAO SHI VEGETABLE CHICKEN(´இ皿இ｀)~</sub>
+  - Therefore, must work harder to improve my skill.
+- 🎐 I hope I can be admitted to a better university and have peace.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
 

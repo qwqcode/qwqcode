@@ -1,4 +1,4 @@
-<gk>🎐 <b>高考</b>仅剩 <b>-48</b> 天</gk>
+<gk>🎐 <b>高考</b>仅剩 <b>-49</b> 天</gk>
 
 ![](https://user-images.githubusercontent.com/22412567/89914023-fb3a6e80-dc26-11ea-82ba-5ed80e2ffb69.jpg)
 

@@ -1,5 +1,3 @@
-<gk>🎐 <b>高考</b>仅剩 <b>-52</b> 天</gk>
-
 ![](https://user-images.githubusercontent.com/22412567/89914023-fb3a6e80-dc26-11ea-82ba-5ed80e2ffb69.jpg)
 
 ### Hi there, I am qwqcode 👋
@@ -14,7 +12,6 @@
 
 ### Something about me
 
-- 🛤 I’m currently studying in an ordinary common high school as a senior three student in China.
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
 - 🌅 I also love photography and design, anime and music.
 - 💦 I'm always sleepy (or you can buy me boba to wake me up!)
@@ -24,7 +21,6 @@
 - 🌚 But what I learned was not systematic actually.
   - That is to say, it is not very professional.
   - Therefore, must work harder to improve my skill.
-- 🎐 I hope I can be admitted to a better university and have peace.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
 

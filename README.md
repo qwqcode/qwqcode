@@ -5,9 +5,7 @@
 <img src="https://github-readme-stats.mrdulin.vercel.app/api?username=qwqcode&count_private=true&show_icons=true&hide_border=true&icon_color=586069&title_color=0366d6" align="right">
 
 - [Blog](https://qwqaq.com/)
-- [Twitter](https://twitter.com/qwqcode)
 - [Telegram](https://t.me/qwqcode)
-- [Bilibili](https://space.bilibili.com/9124283)
 - [E-mail](mailto:qwqcode@gmail.com)
 
 ### Something about me

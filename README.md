@@ -1,4 +1,4 @@
-![](https://user-images.githubusercontent.com/22412567/89914023-fb3a6e80-dc26-11ea-82ba-5ed80e2ffb69.jpg)
+<!--![](https://user-images.githubusercontent.com/22412567/89914023-fb3a6e80-dc26-11ea-82ba-5ed80e2ffb69.jpg)-->
 
 ### Hi there, I am qwqcode 👋
 

@@ -20,7 +20,7 @@
   - That is to say, it is not very professional.
   - Therefore, must work harder to improve my skill.
 
-My GPG fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
+My GPG fingerprint is: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
 

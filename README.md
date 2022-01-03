@@ -18,4 +18,8 @@ My GPG fingerprint is: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qwqcode&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" /></p>
+<p>
+  <img src="https://api.githubtrends.io/user/svg/qwqcode/langs?time_range=one_year&theme=classic" />
+  <img src="https://api.githubtrends.io/user/svg/qwqcode/repos?time_range=one_year&theme=classic" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qwqcode&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20" />
+</p>

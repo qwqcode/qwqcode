@@ -19,6 +19,11 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 ### 📃 Recently published articles
 
 <!-- BLOG-POST-LIST:START -->
+- [常见的面向对象设计原则](https://qwqaq.com/2022/05/design-principles/)
+- [缓存穿透、缓存击穿和缓存雪崩](https://qwqaq.com/2022/05/cache-problems/)
+- [🎉 转向 Hugo：主题制作指北](https://qwqaq.com/2022/04/migrate-to-hugo/)
+- [部署 ADFS 实现 SAML 协议的 SSO 单点登录](https://qwqaq.com/2022/03/adfs-saml-sso/)
+- [Active Directory 服务基本介绍：AD DS、CS、FS、RMS](https://qwqaq.com/2022/03/active-directory-services/)
 <!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)

@@ -8,7 +8,7 @@
 - [Telegram](https://t.me/qwqcode)
 - [E-mail](mailto:qwqcode@gmail.com)
 
-### Information about me
+#### 🎯 Information about me
 
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
 - 🌅 I also love photography and design, anime and music.
@@ -16,7 +16,7 @@
 
 GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 
-### 📃 Recently published articles
+#### 📃 Recent articles
 
 <!-- BLOG-POST-LIST:START -->
 - [常见的面向对象设计原则](https://qwqaq.com/2022/05/design-principles/)

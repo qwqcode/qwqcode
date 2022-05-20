@@ -8,13 +8,18 @@
 - [Telegram](https://t.me/qwqcode)
 - [E-mail](mailto:qwqcode@gmail.com)
 
-### Something about me
+### Information about me
 
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
 - 🌅 I also love photography and design, anime and music.
 - 💦 I'm always sleepy (or you can buy me boba to wake me up!)
 
-My GPG fingerprint is: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
+GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
+
+### 📃 Recently published articles
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=qwqcode.visitor-badge)
 

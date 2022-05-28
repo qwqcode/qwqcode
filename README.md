@@ -12,9 +12,13 @@
 
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
 - 🌅 I also love photography and design, anime and music.
-- 💦 I'm always sleepy (or you can buy me boba to wake me up!)
+- 💦 I'm always sleepy (or you can buy me a cup of coffee to wake me up!)
 
 GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
+
+#### 🔧 Technologies
+
+![skills](https://skillicons.dev/icons?i=go,ts,cs,dotnet,js,java,regex,php,html,css,sass,nodejs,md,py,nuxtjs,react,svelte,vue,webpack,vite,electron,laravel,qt,raspberrypi,bootstrap,jquery,git,vscode,visualstudio,idea,androidstudio,arduino,figma,ai,ps,pr,svg,mysql,nginx,postgres,powershell,redis,sqlite,bash,docker,vim,github,gitlab,stackoverflow,netlify,cloudflare,&theme=light)
 
 #### 📃 Recent articles
 

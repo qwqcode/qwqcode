@@ -18,7 +18,7 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 
 #### 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=go,ts,cs,dotnet,js,java,php,py,regex,docker,git,svelte,sass,vue,nuxtjs,webpack,vite,laravel,electron,vscode,visualstudio,idea,androidstudio,vim,figma,ai,ps,pr,redis,bash&theme=light)
+![skills](https://skillicons.dev/icons?i=go,ts,cs,js,java,php,py,regex,docker,git,svelte,sass,vue,nuxtjs,webpack,vite,laravel,electron,redis,vscode,visualstudio,idea,androidstudio,figma,ai,ps,pr,powershell,vim,bash&theme=light)
 
 #### 📃 Recent articles
 

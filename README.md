@@ -25,16 +25,16 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 November 2022 - To: 13 December 2022
+From: 14 November 2022 - To: 14 December 2022
 
-Total Time: 78 hrs 51 mins
+Total Time: 83 hrs 58 mins
 
-Vue.js       33 hrs 9 mins   ██████████▓░░░░░░░░░░░░░░   42.04 %
-Java         13 hrs 20 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.92 %
-TypeScript   8 hrs 34 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.88 %
-Go           5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-SCSS         4 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.58 %
-C++          3 hrs 32 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 %
+Vue.js       37 hrs 22 mins  ███████████░░░░░░░░░░░░░░   44.51 %
+Java         13 hrs 30 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.09 %
+TypeScript   9 hrs 30 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
+Go           5 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.36 %
+SCSS         4 hrs 23 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
+Markdown     3 hrs 30 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->

@@ -25,16 +25,16 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 December 2022 - To: 05 January 2023
+From: 07 December 2022 - To: 06 January 2023
 
-Total Time: 62 hrs 18 mins
+Total Time: 58 hrs 12 mins
 
-Go           17 hrs 36 mins  ███████░░░░░░░░░░░░░░░░░░   28.26 %
-Java         16 hrs 28 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.44 %
-Vue.js       15 hrs 7 mins   ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-TypeScript   4 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.68 %
-YAML         1 hr 17 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Other        1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+Go           18 hrs 32 mins  ████████░░░░░░░░░░░░░░░░░   31.86 %
+Vue.js       15 hrs 7 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.98 %
+Java         11 hrs 44 mins  █████░░░░░░░░░░░░░░░░░░░░   20.18 %
+TypeScript   4 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.15 %
+YAML         1 hr 18 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Other        1 hr 5 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->

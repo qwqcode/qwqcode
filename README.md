@@ -25,7 +25,7 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 December 2022 - To: 14 January 2023
+From: 16 December 2022 - To: 15 January 2023
 
 Total Time: 33 hrs 18 mins
 

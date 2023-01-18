@@ -25,15 +25,16 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 17 December 2022 - To: 16 January 2023
+From: 18 December 2022 - To: 17 January 2023
 
-Total Time: 34 hrs 47 mins
+Total Time: 34 hrs 27 mins
 
-Go           19 hrs 16 mins  ██████████████░░░░░░░░░░░   55.41 %
-YAML         2 hrs 57 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
-Java         2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.95 %
-TypeScript   2 hrs 28 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
-Other        1 hr 16 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Go           20 hrs          ██████████████▓░░░░░░░░░░   58.04 %
+YAML         3 hrs 59 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.59 %
+Bash         1 hr 43 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.00 %
+Markdown     1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
+TypeScript   1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+Docker       1 hr 14 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
 ```
 
 <!--END_SECTION:waka-->

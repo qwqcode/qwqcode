@@ -25,16 +25,16 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 31 January 2023
+From: 02 January 2023 - To: 01 February 2023
 
-Total Time: 71 hrs 38 mins
+Total Time: 67 hrs 45 mins
 
-Go                30 hrs 5 mins   ██████████▓░░░░░░░░░░░░░░   42.01 %
-YAML              22 hrs 51 mins  ████████░░░░░░░░░░░░░░░░░   31.91 %
-Markdown          3 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.76 %
-Bash              3 hrs 24 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.75 %
-JSON              2 hrs 26 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
-Makefile          2 hrs 9 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+Go                27 hrs 52 mins  ██████████▒░░░░░░░░░░░░░░   41.14 %
+YAML              22 hrs 36 mins  ████████▒░░░░░░░░░░░░░░░░   33.38 %
+Bash              3 hrs 17 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.85 %
+Markdown          3 hrs 4 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 %
+JSON              2 hrs 10 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
+Makefile          1 hr 58 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->

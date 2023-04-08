@@ -25,13 +25,13 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 March 2023 - To: 06 April 2023
+From: 08 March 2023 - To: 07 April 2023
 
-Total Time: 50 hrs 12 mins
+Total Time: 46 hrs 22 mins
 
-Go           12 hrs 51 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
-TypeScript   12 hrs 26 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.79 %
-Other        5 hrs 25 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.79 %
+Go           12 hrs 3 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
+TypeScript   11 hrs 27 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.73 %
+Other        5 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.87 %
 ```
 
 <!--END_SECTION:waka-->

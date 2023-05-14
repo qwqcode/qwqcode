@@ -25,15 +25,15 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 April 2023 - To: 12 May 2023
+From: 13 April 2023 - To: 13 May 2023
 
-Total Time: 35 hrs 30 mins
+Total Time: 37 hrs 22 mins
 
-TypeScript   24 hrs 19 mins  █████████████████░░░░░░░░   68.50 %
-Docker       1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.15 %
-Go           1 hr 20 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 %
-JSON         1 hr 8 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-JavaScript   1 hr 3 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.00 %
+TypeScript   24 hrs 20 mins  ████████████████▒░░░░░░░░   65.12 %
+Other        1 hr 58 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.29 %
+Docker       1 hr 49 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+Markdown     1 hr 34 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
+Go           1 hr 17 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
 ```
 
 <!--END_SECTION:waka-->

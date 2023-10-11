@@ -25,15 +25,15 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 September 2023 - To: 09 October 2023
+From: 10 September 2023 - To: 10 October 2023
 
-Total Time: 38 hrs 49 mins
+Total Time: 40 hrs 33 mins
 
-Go             19 hrs 45 mins  ████████████▓░░░░░░░░░░░░   50.86 %
-Rust           7 hrs 2 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.14 %
-TypeScript     4 hrs 3 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
-SCSS           3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
-Other          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.33 %
+Go             19 hrs 45 mins  ████████████▒░░░░░░░░░░░░   48.69 %
+Rust           7 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
+TypeScript     5 hrs 24 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.35 %
+SCSS           3 hrs           ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+Other          54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 ```
 
 <!--END_SECTION:waka-->

@@ -25,15 +25,15 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2024 - To: 25 February 2024
+From: 27 January 2024 - To: 26 February 2024
 
-Total Time: 122 hrs 29 mins
+Total Time: 120 hrs 23 mins
 
-TypeScript       49 hrs 54 mins  ██████████▒░░░░░░░░░░░░░░   40.75 %
-Go               30 hrs 34 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.97 %
-Vue.js           12 hrs 16 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-PHP              9 hrs 18 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-SCSS             6 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.30 %
+TypeScript       49 hrs 27 mins  ██████████▒░░░░░░░░░░░░░░   41.08 %
+Go               30 hrs 32 mins  ██████▒░░░░░░░░░░░░░░░░░░   25.37 %
+Vue.js           11 hrs          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.14 %
+PHP              9 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
+SCSS             6 hrs 29 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.39 %
 ```
 
 <!--END_SECTION:waka-->

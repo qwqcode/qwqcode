@@ -25,9 +25,9 @@ GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 February 2024 - To: 02 March 2024
+From: 02 February 2024 - To: 03 March 2024
 
-Total Time: 103 hrs 17 mins
+Total Time: 103 hrs 16 mins
 
 TypeScript       35 hrs 27 mins  ████████▓░░░░░░░░░░░░░░░░   34.34 %
 Go               28 hrs 9 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.27 %

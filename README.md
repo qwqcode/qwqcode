@@ -11,14 +11,17 @@
 #### 🎯 Information about me
 
 - ⚔️ I'm addicted to computer science and various digital-related products and technologies.
-- 🌅 I also love photography and design, anime and music.
-- 💦 I'm always sleepy (or you can buy me a cup of coffee to wake me up!)
-
-GPG Fingerprint: `B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A`
+- 🌅 I also love photography and design, movie and music.
 
 #### 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=go,ts,cs,js,java,php,py,regex,docker,git,svelte,sass,vue,nuxtjs,webpack,vite,laravel,electron,redis,vscode,visualstudio,idea,androidstudio,figma,ai,ps,pr,powershell,vim,bash&theme=light)
+
+**GPG Fingerprint**
+
+```
+B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
+```
 
 #### 📊 Monthly development breakdown
 

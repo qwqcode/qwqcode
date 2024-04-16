@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 March 2024 - To: 14 April 2024
+From: 16 March 2024 - To: 15 April 2024
 
-Total Time: 108 hrs 3 mins
+Total Time: 102 hrs 52 mins
 
-C#                        39 hrs 28 mins  █████████░░░░░░░░░░░░░░░░   36.53 %
-Go                        33 hrs 9 mins   ███████▓░░░░░░░░░░░░░░░░░   30.69 %
-XAML                      9 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-YAML                      8 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 %
-Other                     3 hrs 27 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+C#                        39 hrs 28 mins  █████████▓░░░░░░░░░░░░░░░   38.37 %
+Go                        29 hrs 26 mins  ███████░░░░░░░░░░░░░░░░░░   28.61 %
+XAML                      9 hrs 38 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
+YAML                      5 hrs 47 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Other                     3 hrs 39 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 %
 ```
 
 <!--END_SECTION:waka-->

@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 April 2024 - To: 04 May 2024
+From: 05 April 2024 - To: 05 May 2024
 
-Total Time: 110 hrs 37 mins
+Total Time: 102 hrs 39 mins
 
-Go                        37 hrs 20 mins  ████████▒░░░░░░░░░░░░░░░░   33.76 %
-C#                        24 hrs 5 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.77 %
-TypeScript                13 hrs 51 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.53 %
-Markdown                  7 hrs 44 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 %
-YAML                      7 hrs 32 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.81 %
+Go                        38 hrs 55 mins  █████████▒░░░░░░░░░░░░░░░   37.92 %
+C#                        17 hrs 13 mins  ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+TypeScript                13 hrs 51 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.50 %
+Markdown                  7 hrs 44 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
+YAML                      7 hrs 32 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
 ```
 
 <!--END_SECTION:waka-->

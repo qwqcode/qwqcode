@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 July 2024 - To: 04 August 2024
+From: 06 July 2024 - To: 05 August 2024
 
-Total Time: 16 hrs 16 mins
+Total Time: 16 hrs 40 mins
 
-TypeScript       5 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.79 %
-Go               4 hrs 48 mins   ███████▒░░░░░░░░░░░░░░░░░   29.51 %
-JSON             1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 %
-Markdown         56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.81 %
-HTML             48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Go            5 hrs 5 mins    ███████▓░░░░░░░░░░░░░░░░░   30.56 %
+TypeScript    5 hrs           ███████▓░░░░░░░░░░░░░░░░░   30.07 %
+JSON          1 hr 27 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Markdown      56 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+JavaScript    50 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
 ```
 
 <!--END_SECTION:waka-->

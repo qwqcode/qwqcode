@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 August 2024 - To: 23 September 2024
+From: 25 August 2024 - To: 24 September 2024
 
-Total Time: 100 hrs 50 mins
+Total Time: 116 hrs 15 mins
 
-TypeScript      26 hrs 45 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.54 %
-C#              20 hrs          █████░░░░░░░░░░░░░░░░░░░░   19.83 %
-Go              18 hrs 21 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Markdown        7 hrs 16 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.21 %
-SCSS            5 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+C#              28 hrs 42 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.70 %
+TypeScript      26 hrs 45 mins  █████▓░░░░░░░░░░░░░░░░░░░   23.02 %
+Go              18 hrs 21 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.79 %
+Markdown        9 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+SCSS            5 hrs 51 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.03 %
 ```
 
 <!--END_SECTION:waka-->

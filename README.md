@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 November 2024 - To: 12 December 2024
+From: 13 November 2024 - To: 13 December 2024
 
-Total Time: 53 hrs
+Total Time: 43 hrs 41 mins
 
-Vue.js                    22 hrs 37 mins  ██████████▓░░░░░░░░░░░░░░   42.66 %
-C#                        10 hrs 50 mins  █████░░░░░░░░░░░░░░░░░░░░   20.45 %
-Python                    5 hrs 31 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.43 %
-TypeScript                4 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.13 %
-XAML                      3 hrs 34 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.74 %
+Vue.js                    22 hrs 37 mins  █████████████░░░░░░░░░░░░   51.78 %
+TypeScript                4 hrs 52 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+C#                        4 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.45 %
+Python                    4 hrs 3 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.28 %
+XAML                      1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 %
 ```
 
 <!--END_SECTION:waka-->

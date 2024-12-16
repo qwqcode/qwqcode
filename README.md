@@ -28,7 +28,7 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 November 2024 - To: 14 December 2024
+From: 15 November 2024 - To: 15 December 2024
 
 Total Time: 36 hrs 2 mins
 

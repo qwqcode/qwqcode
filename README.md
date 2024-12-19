@@ -28,15 +28,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 November 2024 - To: 17 December 2024
+From: 18 November 2024 - To: 18 December 2024
 
-Total Time: 35 hrs 52 mins
+Total Time: 34 hrs 31 mins
 
-Vue.js        22 hrs 44 mins  ████████████████░░░░░░░░░   63.41 %
-TypeScript    4 hrs 52 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
-Python        4 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.25 %
-Bash          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
-Other         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
+Vue.js        22 hrs 44 mins  ████████████████▒░░░░░░░░   65.90 %
+TypeScript    4 hrs 52 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.13 %
+Python        3 hrs 2 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.79 %
+Bash          59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Other         51 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.47 %
 ```
 
 <!--END_SECTION:waka-->

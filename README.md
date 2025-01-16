@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 15 December 2024 - To: 14 January 2025
+From: 16 December 2024 - To: 15 January 2025
 
-Total Time: 71 hrs 25 mins
+Total Time: 78 hrs 2 mins
 
-Vue.js                    25 hrs 19 mins  █████████░░░░░░░░░░░░░░░░   35.47 %
-TypeScript                15 hrs 51 mins  █████▓░░░░░░░░░░░░░░░░░░░   22.21 %
-C#                        8 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.72 %
-Markdown                  6 hrs 50 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
-HTML                      3 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+Vue.js                    25 hrs 19 mins  ████████░░░░░░░░░░░░░░░░░   32.45 %
+TypeScript                15 hrs 51 mins  █████░░░░░░░░░░░░░░░░░░░░   20.32 %
+Markdown                  8 hrs 33 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.97 %
+C#                        8 hrs 22 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+JavaScript                3 hrs 43 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.77 %
 ```
 
 <!--END_SECTION:waka-->

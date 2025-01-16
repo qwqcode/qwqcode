@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            images/github-snake.svg?color_snake=orange&color_dots=#e5effc,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            images/github-snake.svg?color_snake=orange&color_dots=#f7faff,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             images/github-snake-dark.svg?palette=github-dark
 
       - name: Commit

@@ -1,0 +1,44 @@
+name: Snake Github Contri Stats
+
+on:
+  schedule:
+    - cron: "1 16 * * *"
+  workflow_dispatch:
+
+env:
+    TZ: Asia/Shanghai
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+        with:
+          persist-credentials: false
+          fetch-depth: 0
+
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            images/github-snake.svg?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+            images/github-snake-dark.svg?palette=github-dark
+
+      - name: Commit
+        run: |
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add images/
+            git commit --allow-empty -m \
+            ":pencil: Update github-contribution-grid-snake.svg at \
+            $(date +"%Y-%m-%d %H:%M") \
+            "
+
+      - name: Push
+        uses: ad-m/github-push-action@master
+        with:
+            github_token: ${{ secrets.GITHUB_TOKEN }}

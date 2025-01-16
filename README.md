@@ -8,11 +8,6 @@
 - [Telegram](https://t.me/qwqcode)
 - [E-mail](mailto:qwqcode@gmail.com)
 
-#### 🎯 Information about me
-
-- ⚔️ I'm addicted to computer science and various digital-related products and technologies.
-- 🌅 I also love photography and design, movie and music.
-
 #### 🔧 Technologies
 
 ![skills](https://skillicons.dev/icons?i=go,ts,cs,js,java,php,py,regex,docker,git,svelte,sass,vue,nuxtjs,webpack,vite,laravel,electron,redis,vscode,visualstudio,idea,androidstudio,figma,ai,ps,pr,powershell,vim,bash&theme=light)

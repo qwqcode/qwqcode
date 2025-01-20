@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-01-20T06:31:25.319Z",
+  "generated_at": "2025-01-20T06:50:03.548Z",
   "total_stars": 2900,
   "total_stars_fmt": "2.9K",
   "total_repos": 26,
@@ -12,6 +12,7 @@
       "url": "https://github.com/ArtalkJS/Artalk",
       "homepage": "https://artalk.js.org",
       "language": "Go",
+      "language_color": "#00ADD8",
       "stats": {
         "stars": 1754,
         "stars_fmt": "1.8K",
@@ -33,6 +34,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "MIT",
+      "license_url": "https://api.github.com/licenses/mit",
       "topics": [
         "artalk",
         "blog",
@@ -55,7 +57,7 @@
       ],
       "package_stats": {
         "docker": {
-          "pull_count": 67692,
+          "pull_count": 67693,
           "pull_count_fmt": "67.7K",
           "star_count": 3,
           "star_count_fmt": "3"
@@ -87,6 +89,7 @@
       "url": "https://github.com/qwqcode/SubRenamer",
       "homepage": "",
       "language": "C#",
+      "language_color": "#178600",
       "stats": {
         "stars": 828,
         "stars_fmt": "828",
@@ -108,6 +111,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
       "topics": [
         "anime",
         "avalonia",
@@ -149,6 +153,7 @@
       "url": "https://github.com/qwqcode/Nacollector",
       "homepage": "https://qwqaq.com/65c99d88.html",
       "language": "C#",
+      "language_color": "#178600",
       "stats": {
         "stars": 194,
         "stars_fmt": "194",
@@ -169,7 +174,8 @@
       "is_fork": false,
       "is_archived": true,
       "is_template": false,
-      "license": "NOASSERTION",
+      "license": null,
+      "license_url": null,
       "topics": [
         "cef",
         "cefsharp",
@@ -200,6 +206,7 @@
       "url": "https://github.com/qwqcode/qwquiver",
       "homepage": "",
       "language": "Go",
+      "language_color": "#00ADD8",
       "stats": {
         "stars": 50,
         "stars_fmt": "50",
@@ -221,6 +228,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -242,6 +250,7 @@
       "url": "https://github.com/qwqcode/CefSharpDraggableRegion",
       "homepage": "https://qwqaq.com/57a3ffd3.html",
       "language": "C#",
+      "language_color": "#178600",
       "stats": {
         "stars": 21,
         "stars_fmt": "21",
@@ -263,6 +272,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -281,6 +291,7 @@
       "url": "https://github.com/qwqcode/DesignPatterns",
       "homepage": "https://qwqcode.github.io/DesignPatterns/",
       "language": "TypeScript",
+      "language_color": "#3178c6",
       "stats": {
         "stars": 12,
         "stars_fmt": "12",
@@ -302,6 +313,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -320,6 +332,7 @@
       "url": "https://github.com/qwqcode/SAO-UI",
       "homepage": null,
       "language": "HTML",
+      "language_color": "#e34c26",
       "stats": {
         "stars": 12,
         "stars_fmt": "12",
@@ -341,6 +354,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -359,6 +373,7 @@
       "url": "https://github.com/qwqcode/ffsubsync-bin",
       "homepage": "https://github.com/smacke/ffsubsync",
       "language": "Python",
+      "language_color": "#3572A5",
       "stats": {
         "stars": 9,
         "stars_fmt": "9",
@@ -380,6 +395,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -401,6 +417,7 @@
       "url": "https://github.com/qwqcode/huaji",
       "homepage": "",
       "language": null,
+      "language_color": null,
       "stats": {
         "stars": 5,
         "stars_fmt": "5",
@@ -422,6 +439,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -440,6 +458,7 @@
       "url": "https://github.com/qwqcode/PxtinAndroid",
       "homepage": "",
       "language": "Java",
+      "language_color": "#b07219",
       "stats": {
         "stars": 4,
         "stars_fmt": "4",
@@ -461,6 +480,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [
         "android",
         "api-client",
@@ -485,6 +505,7 @@
       "url": "https://github.com/qwqcode/Rescoll",
       "homepage": "",
       "language": "Vue",
+      "language_color": "#41b883",
       "stats": {
         "stars": 3,
         "stars_fmt": "3",
@@ -505,7 +526,8 @@
       "is_fork": false,
       "is_archived": false,
       "is_template": false,
-      "license": "NOASSERTION",
+      "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -524,6 +546,7 @@
       "url": "https://github.com/qwqcode/Atracer",
       "homepage": "",
       "language": null,
+      "language_color": null,
       "stats": {
         "stars": 2,
         "stars_fmt": "2",
@@ -545,6 +568,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-3.0",
+      "license_url": "https://api.github.com/licenses/gpl-3.0",
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -563,6 +587,7 @@
       "url": "https://github.com/qwqcode/qwqaq-email-server",
       "homepage": "",
       "language": "Python",
+      "language_color": "#3572A5",
       "stats": {
         "stars": 2,
         "stars_fmt": "2",
@@ -584,6 +609,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -602,6 +628,7 @@
       "url": "https://github.com/qwqcode/apple-inventory-bot",
       "homepage": null,
       "language": "Go",
+      "language_color": "#00ADD8",
       "stats": {
         "stars": 1,
         "stars_fmt": "1",
@@ -623,6 +650,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -641,6 +669,7 @@
       "url": "https://github.com/qwqcode/T430-Hackintosh",
       "homepage": null,
       "language": "Shell",
+      "language_color": "#89e051",
       "stats": {
         "stars": 1,
         "stars_fmt": "1",
@@ -662,6 +691,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [
         "hackintosh",
         "macos",
@@ -687,6 +717,7 @@
       "url": "https://github.com/qwqcode/docker-php5.6-apache-imagick",
       "homepage": null,
       "language": "Dockerfile",
+      "language_color": "#384d54",
       "stats": {
         "stars": 1,
         "stars_fmt": "1",
@@ -708,6 +739,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -726,6 +758,7 @@
       "url": "https://github.com/qwqcode/hello-python",
       "homepage": "",
       "language": "Python",
+      "language_color": "#3572A5",
       "stats": {
         "stars": 1,
         "stars_fmt": "1",
@@ -747,6 +780,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [
         "learn-to-code",
         "python-3"
@@ -768,6 +802,7 @@
       "url": "https://github.com/qwqcode/qwqcode",
       "homepage": "qwqcode.vercel.app",
       "language": "JavaScript",
+      "language_color": "#f1e05a",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -782,13 +817,14 @@
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-01-20T06:31:06Z",
-        "pushed_at": "2025-01-20T06:31:04Z"
+        "updated_at": "2025-01-20T06:49:36Z",
+        "pushed_at": "2025-01-20T06:49:35Z"
       },
       "is_fork": false,
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -807,6 +843,7 @@
       "url": "https://github.com/qwqcode/leetcode",
       "homepage": null,
       "language": "Go",
+      "language_color": "#00ADD8",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -828,6 +865,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -846,6 +884,7 @@
       "url": "https://github.com/qwqcode/vite-dts-test",
       "homepage": null,
       "language": "TypeScript",
+      "language_color": "#3178c6",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -867,6 +906,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -885,6 +925,7 @@
       "url": "https://github.com/qwqcode/semantic-release-test",
       "homepage": null,
       "language": "Go",
+      "language_color": "#00ADD8",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -905,7 +946,8 @@
       "is_fork": false,
       "is_archived": false,
       "is_template": false,
-      "license": "NOASSERTION",
+      "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -927,6 +969,7 @@
       "url": "https://github.com/qwqcode/book-register",
       "homepage": null,
       "language": "JavaScript",
+      "language_color": "#f1e05a",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -948,6 +991,7 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
+      "license_url": null,
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -966,6 +1010,7 @@
       "url": "https://github.com/qwqcode/FileVault",
       "homepage": "",
       "language": null,
+      "language_color": null,
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -987,6 +1032,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -1005,6 +1051,7 @@
       "url": "https://github.com/qwqcode/hexo-theme-ascende",
       "homepage": "",
       "language": "CSS",
+      "language_color": "#563d7c",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -1026,6 +1073,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "MIT",
+      "license_url": "https://api.github.com/licenses/mit",
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -1044,6 +1092,7 @@
       "url": "https://github.com/qwqcode/tako-lite",
       "homepage": "",
       "language": "JavaScript",
+      "language_color": "#f1e05a",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -1065,6 +1114,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-2.0",
+      "license_url": "https://api.github.com/licenses/gpl-2.0",
       "topics": [],
       "package_stats": {
         "github_releases": {
@@ -1083,6 +1133,7 @@
       "url": "https://github.com/qwqcode/tako-desktop",
       "homepage": null,
       "language": "JavaScript",
+      "language_color": "#f1e05a",
       "stats": {
         "stars": 0,
         "stars_fmt": "0",
@@ -1104,6 +1155,7 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-3.0",
+      "license_url": "https://api.github.com/licenses/gpl-3.0",
       "topics": [],
       "package_stats": {
         "github_releases": {

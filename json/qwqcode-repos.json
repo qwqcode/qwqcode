@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-01-20T06:50:03.548Z",
+  "generated_at": "2025-01-20T08:07:36.073Z",
   "total_stars": 2900,
   "total_stars_fmt": "2.9K",
   "total_repos": 26,
@@ -57,12 +57,16 @@
       ],
       "package_stats": {
         "docker": {
-          "pull_count": 67693,
+          "name": "artalk/artalk-go",
+          "url": "https://hub.docker.com/r/artalk/artalk-go",
+          "pull_count": 67699,
           "pull_count_fmt": "67.7K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
+          "name": "artalk",
+          "url": "https://www.npmjs.com/package/artalk",
           "downloads_last_month": 4779,
           "downloads_last_month_fmt": "4.8K",
           "downloads_total": 174589,
@@ -71,6 +75,7 @@
           "latest_version": "2.9.1"
         },
         "github_releases": {
+          "url": "https://github.com/ArtalkJS/Artalk/releases",
           "total_downloads": 11843,
           "total_downloads_fmt": "11.8K",
           "latest_release": {
@@ -135,13 +140,14 @@
       ],
       "package_stats": {
         "github_releases": {
-          "total_downloads": 10253,
+          "url": "https://github.com/qwqcode/SubRenamer/releases",
+          "total_downloads": 10256,
           "total_downloads_fmt": "10.3K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 305,
-            "downloads_fmt": "305"
+            "downloads": 308,
+            "downloads_fmt": "308"
           }
         }
       }
@@ -188,6 +194,7 @@
       ],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/Nacollector/releases",
           "total_downloads": 898,
           "total_downloads_fmt": "898",
           "latest_release": {
@@ -232,6 +239,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/qwquiver/releases",
           "total_downloads": 146,
           "total_downloads_fmt": "146",
           "latest_release": {
@@ -276,6 +284,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/CefSharpDraggableRegion/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -317,6 +326,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/DesignPatterns/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -358,6 +368,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/SAO-UI/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -399,6 +410,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
           "total_downloads": 425,
           "total_downloads_fmt": "425",
           "latest_release": {
@@ -443,6 +455,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/huaji/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -490,6 +503,7 @@
       ],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/PxtinAndroid/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -531,6 +545,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/Rescoll/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -572,6 +587,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/Atracer/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -613,6 +629,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/qwqaq-email-server/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -654,6 +671,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/apple-inventory-bot/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -702,6 +720,7 @@
       ],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/T430-Hackintosh/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -743,6 +762,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/docker-php5.6-apache-imagick/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -787,6 +807,7 @@
       ],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/hello-python/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -812,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 904,
-        "size_fmt": "904"
+        "size": 918,
+        "size_fmt": "918"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-01-20T06:49:36Z",
-        "pushed_at": "2025-01-20T06:49:35Z"
+        "updated_at": "2025-01-20T08:07:01Z",
+        "pushed_at": "2025-01-20T08:06:59Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -828,6 +849,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/qwqcode/releases",
           "total_downloads": 115,
           "total_downloads_fmt": "115",
           "latest_release": {
@@ -869,6 +891,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/leetcode/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -910,6 +933,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/vite-dts-test/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -951,6 +975,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/semantic-release-test/releases",
           "total_downloads": 836,
           "total_downloads_fmt": "836",
           "latest_release": {
@@ -995,6 +1020,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/book-register/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -1036,6 +1062,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/FileVault/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -1077,6 +1104,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/hexo-theme-ascende/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -1118,6 +1146,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/tako-lite/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -1159,6 +1188,7 @@
       "topics": [],
       "package_stats": {
         "github_releases": {
+          "url": "https://github.com/qwqcode/tako-desktop/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {

@@ -34,22 +34,22 @@ const CONFIG = {
     }
   },
   
-  // 特色仓库配置
-  featuredRepos: [
+  // 仓库配置
+  repos: [
     {
-      name: 'ArtalkJS/Artalk',
+      repo: 'ArtalkJS/Artalk',
       packages: {
         npm: 'artalk',
-        docker: 'artalk/artalk-go'
+        docker: 'artalk/artalk-go',
+        github_releases: true
+      }
+    },
+    {
+      user: 'qwqcode',
+      packages: {
+        github_releases: true
       }
     }
-    // 可以添加更多特色仓库
-    // {
-    //   name: 'owner/repo',
-    //   packages: {
-    //     npm: 'package-name'
-    //   }
-    // }
   ],
   
   // 输出配置
@@ -251,51 +251,69 @@ function formatRepo(repo) {
   }
 }
 
-async function fetchFeaturedRepoStats(repo) {
+async function fetchRepoStats(repoFullName, packages = {}) {
   const [repoData, releaseStats] = await Promise.all([
-    fetchGitHub(`/repos/${repo}`),
-    fetchGitHubReleaseStats(repo)
+    fetchGitHub(`/repos/${repoFullName}`),
+    packages.github_releases ? fetchGitHubReleaseStats(repoFullName) : null
   ]);
 
-  // 针对特定项目获取额外的包统计
+  // 获取额外的包统计
   let packageStats = {};
-  if (repo === 'ArtalkJS/Artalk') {
-    const [npmStats, dockerStats] = await Promise.all([
-      fetchNpmStats('artalk'),
-      fetchDockerHubStats('artalk/artalk-go')
-    ]);
-    
-    packageStats = {
-      npm: {
-        downloads_last_month: npmStats.downloads_last_month,
-        downloads_last_month_fmt: formatNumber(npmStats.downloads_last_month),
-        downloads_total: npmStats.downloads_total,
-        downloads_total_fmt: formatNumber(npmStats.downloads_total),
-        first_published: npmStats.first_published,
-        latest_version: npmStats.latest_version
-      },
-      docker: {
-        pull_count: dockerStats.pull_count,
-        pull_count_fmt: formatNumber(dockerStats.pull_count),
-        star_count: dockerStats.star_count,
-        star_count_fmt: formatNumber(dockerStats.star_count)
-      }
-    };
-  }
 
-  return {
-    ...formatRepo(repoData),
-    package_stats: {
-      ...packageStats,
-      github_releases: {
+  if (packages) {
+    const promises = [];
+    const stats = {};
+
+    if (packages.npm) {
+      promises.push(
+        fetchNpmStats(packages.npm)
+          .then(npmStats => {
+            stats.npm = {
+              downloads_last_month: npmStats.downloads_last_month,
+              downloads_last_month_fmt: formatNumber(npmStats.downloads_last_month),
+              downloads_total: npmStats.downloads_total,
+              downloads_total_fmt: formatNumber(npmStats.downloads_total),
+              first_published: npmStats.first_published,
+              latest_version: npmStats.latest_version
+            };
+          })
+      );
+    }
+
+    if (packages.docker) {
+      promises.push(
+        fetchDockerHubStats(packages.docker)
+          .then(dockerStats => {
+            stats.docker = {
+              pull_count: dockerStats.pull_count,
+              pull_count_fmt: formatNumber(dockerStats.pull_count),
+              star_count: dockerStats.star_count,
+              star_count_fmt: formatNumber(dockerStats.star_count)
+            };
+          })
+      );
+    }
+
+    if (promises.length > 0) {
+      await Promise.all(promises);
+      packageStats = stats;
+    }
+
+    if (packages.github_releases && releaseStats) {
+      packageStats.github_releases = {
         total_downloads: releaseStats.total_downloads,
         total_downloads_fmt: formatNumber(releaseStats.total_downloads),
         latest_release: {
           ...releaseStats.latest_release,
           downloads_fmt: formatNumber(releaseStats.latest_release?.downloads || 0)
         }
-      }
+      };
     }
+  }
+
+  return {
+    ...formatRepo(repoData),
+    package_stats: packageStats
   };
 }
 
@@ -303,39 +321,51 @@ async function main() {
   try {
     logger.info('Starting GitHub stats collection...');
     
-    // 获取所有特色项目的数据
-    logger.info('Fetching featured repos data...');
-    const featuredReposData = await Promise.allSettled(
-      CONFIG.featuredRepos.map(async ({ name, packages }) => {
-        try {
-          const repoData = await fetchFeaturedRepoStats(name);
-          // 如果需要，可以使用 packages 配置获取额外的包统计
-          return repoData;
-        } catch (error) {
-          logger.error(`Failed to fetch stats for ${name}:`, error);
-          return null;
-        }
-      })
-    ).then(results => results
-      .filter(r => r.status === 'fulfilled' && r.value)
-      .map(r => r.value)
-    );
-    
-    // 获取 qwqcode 的仓库数据
-    logger.info('Fetching personal repos data...');
-    const qwqcodeRepos = await fetchGitHub('/users/qwqcode/repos?per_page=100&sort=updated');
-    const personalRepos = qwqcodeRepos
-      .filter(repo => !repo.fork)
-      .map(repo => ({
-        ...formatRepo(repo),
-        full_name: `qwqcode/${repo.name}`
-      }));
-    
-    // 合并所有仓库数据
-    const allRepos = [
-      ...featuredReposData,
-      ...personalRepos
-    ].sort((a, b) => b.stats.stars - a.stats.stars);
+    // 获取所有仓库数据
+    logger.info('Fetching repos data...');
+    const reposPromises = [];
+
+    for (const repoConfig of CONFIG.repos) {
+      if (repoConfig.repo) {
+        // 获取单个仓库数据
+        reposPromises.push(
+          fetchRepoStats(repoConfig.repo, repoConfig.packages)
+            .catch(error => {
+              logger.error(`Failed to fetch stats for ${repoConfig.repo}:`, error);
+              return null;
+            })
+        );
+      } else if (repoConfig.user) {
+        // 获取用户的所有非fork仓库
+        reposPromises.push(
+          fetchGitHub(`/users/${repoConfig.user}/repos?per_page=100&sort=updated`)
+            .then(repos => 
+              Promise.all(
+                repos
+                  .filter(repo => !repo.fork)
+                  .map(repo => {
+                    const fullName = `${repoConfig.user}/${repo.name}`;
+                    return fetchRepoStats(fullName, repoConfig.packages)
+                      .catch(error => {
+                        logger.error(`Failed to fetch stats for ${fullName}:`, error);
+                        return null;
+                      });
+                  })
+              )
+            )
+            .catch(error => {
+              logger.error(`Failed to fetch repos for user ${repoConfig.user}:`, error);
+              return [];
+            })
+        );
+      }
+    }
+
+    const reposResults = await Promise.all(reposPromises);
+    const allRepos = reposResults
+      .flat()
+      .filter(repo => repo !== null)
+      .sort((a, b) => b.stats.stars - a.stats.stars);
     
     const totalStars = allRepos.reduce((sum, repo) => sum + repo.stats.stars, 0);
     

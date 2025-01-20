@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-01-20T06:19:19.885Z",
+  "generated_at": "2025-01-20T06:31:25.319Z",
   "total_stars": 2900,
   "total_stars_fmt": "2.9K",
   "total_repos": 26,
@@ -54,6 +54,12 @@
         "vue"
       ],
       "package_stats": {
+        "docker": {
+          "pull_count": 67692,
+          "pull_count_fmt": "67.7K",
+          "star_count": 3,
+          "star_count_fmt": "3"
+        },
         "npm": {
           "downloads_last_month": 4779,
           "downloads_last_month_fmt": "4.8K",
@@ -61,12 +67,6 @@
           "downloads_total_fmt": "174.6K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
-        },
-        "docker": {
-          "pull_count": 67692,
-          "pull_count_fmt": "67.7K",
-          "star_count": 3,
-          "star_count_fmt": "3"
         },
         "github_releases": {
           "total_downloads": 11843,
@@ -128,7 +128,19 @@
         "video",
         "video-player",
         "vlc"
-      ]
+      ],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 10253,
+          "total_downloads_fmt": "10.3K",
+          "latest_release": {
+            "tag_name": "v2.4.0",
+            "published_at": "2025-01-10T16:42:38Z",
+            "downloads": 305,
+            "downloads_fmt": "305"
+          }
+        }
+      }
     },
     "qwqcode/Nacollector": {
       "name": "Nacollector",
@@ -167,7 +179,19 @@
         "image-downloader",
         "material-design",
         "webapp"
-      ]
+      ],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 898,
+          "total_downloads_fmt": "898",
+          "latest_release": {
+            "tag_name": "1.3.1.0",
+            "published_at": "2019-07-14T16:41:40Z",
+            "downloads": 510,
+            "downloads_fmt": "510"
+          }
+        }
+      }
     },
     "qwqcode/qwquiver": {
       "name": "qwquiver",
@@ -197,7 +221,19 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 146,
+          "total_downloads_fmt": "146",
+          "latest_release": {
+            "tag_name": "0.0.1",
+            "published_at": "2021-01-13T16:31:41Z",
+            "downloads": 146,
+            "downloads_fmt": "146"
+          }
+        }
+      }
     },
     "qwqcode/CefSharpDraggableRegion": {
       "name": "CefSharpDraggableRegion",
@@ -227,7 +263,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/DesignPatterns": {
       "name": "DesignPatterns",
@@ -257,7 +302,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/SAO-UI": {
       "name": "SAO-UI",
@@ -287,7 +341,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/ffsubsync-bin": {
       "name": "ffsubsync-bin",
@@ -317,7 +380,19 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 425,
+          "total_downloads_fmt": "425",
+          "latest_release": {
+            "tag_name": "v0.4.26",
+            "published_at": "2024-11-18T14:19:07Z",
+            "downloads": 425,
+            "downloads_fmt": "425"
+          }
+        }
+      }
     },
     "qwqcode/huaji": {
       "name": "huaji",
@@ -347,7 +422,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/PxtinAndroid": {
       "name": "PxtinAndroid",
@@ -383,7 +467,16 @@
         "fragments",
         "picture-gallery",
         "waterfall-layout"
-      ]
+      ],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/Rescoll": {
       "name": "Rescoll",
@@ -413,7 +506,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "NOASSERTION",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/Atracer": {
       "name": "Atracer",
@@ -443,7 +545,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-3.0",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/qwqaq-email-server": {
       "name": "qwqaq-email-server",
@@ -473,7 +584,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/apple-inventory-bot": {
       "name": "apple-inventory-bot",
@@ -503,7 +623,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/T430-Hackintosh": {
       "name": "T430-Hackintosh",
@@ -540,7 +669,16 @@
         "nvs5400",
         "t430",
         "thinkpad"
-      ]
+      ],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/docker-php5.6-apache-imagick": {
       "name": "docker-php5.6-apache-imagick",
@@ -570,7 +708,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/hello-python": {
       "name": "hello-python",
@@ -603,7 +750,16 @@
       "topics": [
         "learn-to-code",
         "python-3"
-      ]
+      ],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/qwqcode": {
       "name": "qwqcode",
@@ -626,14 +782,23 @@
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-01-20T06:18:57Z",
-        "pushed_at": "2025-01-20T06:18:56Z"
+        "updated_at": "2025-01-20T06:31:06Z",
+        "pushed_at": "2025-01-20T06:31:04Z"
       },
       "is_fork": false,
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 115,
+          "total_downloads_fmt": "115",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/leetcode": {
       "name": "leetcode",
@@ -663,7 +828,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/vite-dts-test": {
       "name": "vite-dts-test",
@@ -693,7 +867,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/semantic-release-test": {
       "name": "semantic-release-test",
@@ -723,7 +906,19 @@
       "is_archived": false,
       "is_template": false,
       "license": "NOASSERTION",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 836,
+          "total_downloads_fmt": "836",
+          "latest_release": {
+            "tag_name": "v1.1.16",
+            "published_at": "2023-01-26T11:56:32Z",
+            "downloads": 33,
+            "downloads_fmt": "33"
+          }
+        }
+      }
     },
     "qwqcode/book-register": {
       "name": "book-register",
@@ -753,7 +948,16 @@
       "is_archived": false,
       "is_template": false,
       "license": null,
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/FileVault": {
       "name": "FileVault",
@@ -783,7 +987,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-2.0",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/hexo-theme-ascende": {
       "name": "hexo-theme-ascende",
@@ -813,7 +1026,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "MIT",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/tako-lite": {
       "name": "tako-lite",
@@ -843,7 +1065,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-2.0",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     },
     "qwqcode/tako-desktop": {
       "name": "tako-desktop",
@@ -873,7 +1104,16 @@
       "is_archived": false,
       "is_template": false,
       "license": "GPL-3.0",
-      "topics": []
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
+          }
+        }
+      }
     }
   }
 }

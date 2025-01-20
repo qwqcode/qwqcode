@@ -218,6 +218,65 @@ function formatNumber(num) {
   return num.toString();
 }
 
+const LANG_COLORS = {
+  "JavaScript": "#f1e05a",
+  "TypeScript": "#3178c6",
+  "Python": "#3572A5",
+  "Java": "#b07219",
+  "Go": "#00ADD8",
+  "PHP": "#4F5D95",
+  "C++": "#f34b7d",
+  "C": "#555555",
+  "Ruby": "#701516",
+  "Shell": "#89e051",
+  "HTML": "#e34c26",
+  "CSS": "#563d7c",
+  "Vue": "#41b883",
+  "Rust": "#dea584",
+  "Swift": "#ffac45",
+  "Kotlin": "#A97BFF",
+  "Dart": "#00B4AB",
+  "C#": "#178600",
+  "Jupyter Notebook": "#DA5B0B",
+  "Assembly": "#6E4C13",
+  "Objective-C": "#438eff",
+  "Scala": "#c22d40",
+  "R": "#198CE7",
+  "Lua": "#000080",
+  "Haskell": "#5e5086",
+  "SCSS": "#c6538c",
+  "Less": "#1d365d",
+  "Stylus": "#ff6347",
+  "Perl": "#0298c3",
+  "CoffeeScript": "#244776",
+  "Elixir": "#6e4a7e",
+  "Clojure": "#db5855",
+  "Erlang": "#B83998",
+  "Julia": "#a270ba",
+  "Elm": "#60B5CC",
+  "OCaml": "#3be133",
+  "MATLAB": "#e16737",
+  "Groovy": "#e69f56",
+  "Fortran": "#4d41b1",
+  "Haxe": "#df7900",
+  "Pascal": "#E3F171",
+  "Assembly": "#6E4C13",
+  "PowerShell": "#012456",
+  "Visual Basic": "#945db7",
+  "Dockerfile": "#384d54",
+  "CMake": "#DA3434",
+  "Makefile": "#427819",
+  "Markdown": "#083fa1",
+  "YAML": "#cb171e",
+  "JSON": "#292929",
+  "XML": "#0060ac",
+  "Vim script": "#199f4b",
+  "Svelte": "#ff3e00",
+  "Astro": "#ff5a03",
+  "Zig": "#ec915c",
+  "Nix": "#7e7eff"
+};
+
 function formatRepo(repo) {
   return {
     name: repo.name,
@@ -226,6 +285,7 @@ function formatRepo(repo) {
     url: repo.html_url,
     homepage: repo.homepage,
     language: repo.language,
+    language_color: repo.language ? LANG_COLORS[repo.language] || null : null,
     stats: {
       stars: repo.stargazers_count,
       stars_fmt: formatNumber(repo.stargazers_count),
@@ -246,7 +306,8 @@ function formatRepo(repo) {
     is_fork: repo.fork,
     is_archived: repo.archived,
     is_template: repo.is_template,
-    license: repo.license?.spdx_id || null,
+    license: repo.license?.spdx_id === 'NOASSERTION' ? null : repo.license?.spdx_id || null,
+    license_url: repo.license?.url || null,
     topics: repo.topics || []
   }
 }

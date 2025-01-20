@@ -330,6 +330,8 @@ async function fetchRepoStats(repoFullName, packages = {}) {
         fetchNpmStats(packages.npm)
           .then(npmStats => {
             stats.npm = {
+              name: packages.npm,
+              url: `https://www.npmjs.com/package/${packages.npm}`,
               downloads_last_month: npmStats.downloads_last_month,
               downloads_last_month_fmt: formatNumber(npmStats.downloads_last_month),
               downloads_total: npmStats.downloads_total,
@@ -346,6 +348,8 @@ async function fetchRepoStats(repoFullName, packages = {}) {
         fetchDockerHubStats(packages.docker)
           .then(dockerStats => {
             stats.docker = {
+              name: packages.docker,
+              url: `https://hub.docker.com/r/${packages.docker}`,
               pull_count: dockerStats.pull_count,
               pull_count_fmt: formatNumber(dockerStats.pull_count),
               star_count: dockerStats.star_count,
@@ -362,6 +366,7 @@ async function fetchRepoStats(repoFullName, packages = {}) {
 
     if (packages.github_releases && releaseStats) {
       packageStats.github_releases = {
+        url: `https://github.com/${repoFullName}/releases`,
         total_downloads: releaseStats.total_downloads,
         total_downloads_fmt: formatNumber(releaseStats.total_downloads),
         latest_release: {

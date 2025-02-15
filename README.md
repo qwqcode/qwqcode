@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 14 January 2025 - To: 13 February 2025
+From: 16 January 2025 - To: 15 February 2025
 
-Total Time: 52 hrs 55 mins
+Total Time: 41 hrs 59 mins
 
-Markdown      18 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   35.45 %
-HTML          12 hrs 47 mins  ██████░░░░░░░░░░░░░░░░░░░   24.16 %
-JavaScript    11 hrs 18 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.35 %
-SCSS          6 hrs 35 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.44 %
-YAML          1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 %
+Markdown      16 hrs 44 mins  ██████████░░░░░░░░░░░░░░░   39.88 %
+HTML          10 hrs 25 mins  ██████▒░░░░░░░░░░░░░░░░░░   24.82 %
+JavaScript    6 hrs 47 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.18 %
+SCSS          5 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+YAML          1 hr 32 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
 ```
 
 <!--END_SECTION:waka-->

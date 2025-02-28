@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-02-27T16:12:36.470Z",
-  "total_stars": 2991,
+  "generated_at": "2025-02-28T16:12:24.726Z",
+  "total_stars": 2992,
   "total_stars_fmt": "3.0K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1807,
+        "stars": 1808,
         "stars_fmt": "1.8K",
         "forks": 149,
         "forks_fmt": "149",
-        "watchers": 1807,
+        "watchers": 1808,
         "watchers_fmt": "1.8K",
         "issues": 74,
         "issues_fmt": "74",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-02-26T23:24:11Z",
+        "updated_at": "2025-02-28T09:54:42Z",
         "pushed_at": "2025-02-25T18:02:52Z"
       },
       "is_fork": false,
@@ -56,33 +56,33 @@
         "vue"
       ],
       "package_stats": {
-        "npm": {
-          "name": "artalk",
-          "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4553,
-          "downloads_last_month_fmt": "4.6K",
-          "downloads_total": 159604,
-          "downloads_total_fmt": "159.6K",
-          "first_published": "2018-10-06T13:58:35.065Z",
-          "latest_version": "2.9.1"
-        },
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 69209,
-          "pull_count_fmt": "69.2K",
+          "pull_count": 69474,
+          "pull_count_fmt": "69.5K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
+        "npm": {
+          "name": "artalk",
+          "url": "https://www.npmjs.com/package/artalk",
+          "downloads_last_month": 4608,
+          "downloads_last_month_fmt": "4.6K",
+          "downloads_total": 159414,
+          "downloads_total_fmt": "159.4K",
+          "first_published": "2018-10-06T13:58:35.065Z",
+          "latest_version": "2.9.1"
+        },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 11899,
+          "total_downloads": 11903,
           "total_downloads_fmt": "11.9K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 378,
-            "downloads_fmt": "378"
+            "downloads": 379,
+            "downloads_fmt": "379"
           }
         }
       }
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 10988,
+          "total_downloads": 11001,
           "total_downloads_fmt": "11.0K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 1022,
+            "downloads": 1035,
             "downloads_fmt": "1.0K"
           }
         }
@@ -327,13 +327,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 593,
-          "total_downloads_fmt": "593",
+          "total_downloads": 603,
+          "total_downloads_fmt": "603",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 593,
-            "downloads_fmt": "593"
+            "downloads": 603,
+            "downloads_fmt": "603"
           }
         }
       }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1026,
+        "size": 1029,
         "size_fmt": "1.0K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-02-26T16:23:58Z",
-        "pushed_at": "2025-02-26T16:23:55Z"
+        "updated_at": "2025-02-27T16:24:31Z",
+        "pushed_at": "2025-02-27T16:24:27Z"
       },
       "is_fork": false,
       "is_archived": false,

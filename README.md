@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 February 2025 - To: 21 March 2025
+From: 20 February 2025 - To: 22 March 2025
 
-Total Time: 47 hrs 8 mins
+Total Time: 44 hrs 40 mins
 
-Go                30 hrs 58 mins  ████████████████▒░░░░░░░░   65.71 %
-Vue.js            8 hrs 5 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.17 %
-TypeScript        1 hr 59 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
-Markdown          1 hr 54 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 %
-Swift             43 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+Go                28 hrs 59 mins  ████████████████▒░░░░░░░░   64.87 %
+Vue.js            8 hrs 12 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
+TypeScript        2 hrs 19 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.21 %
+JSON              54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
+Markdown          44 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
 ```
 
 <!--END_SECTION:waka-->

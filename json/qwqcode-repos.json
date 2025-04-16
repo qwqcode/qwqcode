@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-04-15T16:11:25.735Z",
-  "total_stars": 3112,
+  "generated_at": "2025-04-16T16:13:34.977Z",
+  "total_stars": 3115,
   "total_stars_fmt": "3.1K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -56,33 +56,33 @@
         "vue"
       ],
       "package_stats": {
-        "docker": {
-          "name": "artalk/artalk-go",
-          "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 78951,
-          "pull_count_fmt": "79.0K",
-          "star_count": 3,
-          "star_count_fmt": "3"
-        },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
           "downloads_last_month": 4879,
           "downloads_last_month_fmt": "4.9K",
-          "downloads_total": 136063,
-          "downloads_total_fmt": "136.1K",
+          "downloads_total": 135649,
+          "downloads_total_fmt": "135.6K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
+        "docker": {
+          "name": "artalk/artalk-go",
+          "url": "https://hub.docker.com/r/artalk/artalk-go",
+          "pull_count": 79240,
+          "pull_count_fmt": "79.2K",
+          "star_count": 3,
+          "star_count_fmt": "3"
+        },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12038,
+          "total_downloads": 12040,
           "total_downloads_fmt": "12.0K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 454,
-            "downloads_fmt": "454"
+            "downloads": 456,
+            "downloads_fmt": "456"
           }
         }
       }
@@ -96,12 +96,12 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 921,
-        "stars_fmt": "921",
+        "stars": 924,
+        "stars_fmt": "924",
         "forks": 35,
         "forks_fmt": "35",
-        "watchers": 921,
-        "watchers_fmt": "921",
+        "watchers": 924,
+        "watchers_fmt": "924",
         "issues": 6,
         "issues_fmt": "6",
         "size": 1371,
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2025-04-14T05:44:48Z",
+        "updated_at": "2025-04-16T14:13:50Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 11852,
+          "total_downloads": 11871,
           "total_downloads_fmt": "11.9K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 1877,
+            "downloads": 1896,
             "downloads_fmt": "1.9K"
           }
         }
@@ -327,13 +327,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 829,
-          "total_downloads_fmt": "829",
+          "total_downloads": 838,
+          "total_downloads_fmt": "838",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 829,
-            "downloads_fmt": "829"
+            "downloads": 838,
+            "downloads_fmt": "838"
           }
         }
       }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1222,
+        "size": 1225,
         "size_fmt": "1.2K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-04-14T16:22:11Z",
-        "pushed_at": "2025-04-14T16:22:08Z"
+        "updated_at": "2025-04-15T16:23:32Z",
+        "pushed_at": "2025-04-15T16:23:28Z"
       },
       "is_fork": false,
       "is_archived": false,

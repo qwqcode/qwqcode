@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 31 March 2025 - To: 30 April 2025
+From: 02 April 2025 - To: 02 May 2025
 
-Total Time: 167 hrs 48 mins
+Total Time: 164 hrs 16 mins
 
-Go                         126 hrs 23 mins ██████████████████▓░░░░░░   75.31 %
-Other                      9 hrs 32 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.69 %
-JSON                       6 hrs 11 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Vue.js                     5 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 %
-YAML                       5 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Go                         118 hrs 31 mins ██████████████████░░░░░░░   72.15 %
+Other                      10 hrs 39 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
+YAML                       6 hrs 33 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 %
+Vue.js                     5 hrs 37 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 %
+Bash                       4 hrs 56 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->

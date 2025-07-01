@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-06-30T16:13:42.556Z",
-  "total_stars": 3288,
+  "generated_at": "2025-07-01T16:14:21.504Z",
+  "total_stars": 3290,
   "total_stars_fmt": "3.3K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1951,
+        "stars": 1953,
         "stars_fmt": "2.0K",
         "forks": 153,
         "forks_fmt": "153",
-        "watchers": 1951,
+        "watchers": 1953,
         "watchers_fmt": "2.0K",
         "issues": 92,
         "issues_fmt": "92",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-06-29T23:34:07Z",
+        "updated_at": "2025-07-01T11:51:01Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 152640,
-          "pull_count_fmt": "152.6K",
+          "pull_count": 153625,
+          "pull_count_fmt": "153.6K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4534,
-          "downloads_last_month_fmt": "4.5K",
-          "downloads_total": 102753,
-          "downloads_total_fmt": "102.8K",
+          "downloads_last_month": 4592,
+          "downloads_last_month_fmt": "4.6K",
+          "downloads_total": 102146,
+          "downloads_total_fmt": "102.1K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12463,
+          "total_downloads": 12465,
           "total_downloads_fmt": "12.5K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 756,
-            "downloads_fmt": "756"
+            "downloads": 758,
+            "downloads_fmt": "758"
           }
         }
       }
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 12977,
+          "total_downloads": 12985,
           "total_downloads_fmt": "13.0K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 2965,
+            "downloads": 2973,
             "downloads_fmt": "3.0K"
           }
         }
@@ -195,13 +195,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/Nacollector/releases",
-          "total_downloads": 906,
-          "total_downloads_fmt": "906",
+          "total_downloads": 907,
+          "total_downloads_fmt": "907",
           "latest_release": {
             "tag_name": "1.3.1.0",
             "published_at": "2019-07-14T16:41:40Z",
-            "downloads": 517,
-            "downloads_fmt": "517"
+            "downloads": 518,
+            "downloads_fmt": "518"
           }
         }
       }
@@ -327,12 +327,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 1207,
+          "total_downloads": 1210,
           "total_downloads_fmt": "1.2K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 1207,
+            "downloads": 1210,
             "downloads_fmt": "1.2K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1497,
+        "size": 1505,
         "size_fmt": "1.5K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-06-29T16:24:09Z",
-        "pushed_at": "2025-06-29T16:24:06Z"
+        "updated_at": "2025-06-30T16:27:06Z",
+        "pushed_at": "2025-06-30T16:27:03Z"
       },
       "is_fork": false,
       "is_archived": false,

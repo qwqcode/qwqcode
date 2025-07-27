@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-07-26T16:12:38.534Z",
-  "total_stars": 3336,
+  "generated_at": "2025-07-27T16:12:43.207Z",
+  "total_stars": 3338,
   "total_stars_fmt": "3.3K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1983,
+        "stars": 1982,
         "stars_fmt": "2.0K",
         "forks": 156,
         "forks_fmt": "156",
-        "watchers": 1983,
+        "watchers": 1982,
         "watchers_fmt": "2.0K",
         "issues": 94,
         "issues_fmt": "94",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-07-26T10:00:36Z",
+        "updated_at": "2025-07-27T08:34:00Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 178120,
-          "pull_count_fmt": "178.1K",
+          "pull_count": 179190,
+          "pull_count_fmt": "179.2K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4171,
-          "downloads_last_month_fmt": "4.2K",
-          "downloads_total": 97724,
-          "downloads_total_fmt": "97.7K",
+          "downloads_last_month": 3789,
+          "downloads_last_month_fmt": "3.8K",
+          "downloads_total": 97439,
+          "downloads_total_fmt": "97.4K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12515,
+          "total_downloads": 12517,
           "total_downloads_fmt": "12.5K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 807,
-            "downloads_fmt": "807"
+            "downloads": 809,
+            "downloads_fmt": "809"
           }
         }
       }
@@ -96,11 +96,11 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1022,
+        "stars": 1024,
         "stars_fmt": "1.0K",
         "forks": 37,
         "forks_fmt": "37",
-        "watchers": 1022,
+        "watchers": 1024,
         "watchers_fmt": "1.0K",
         "issues": 10,
         "issues_fmt": "10",
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2025-07-24T14:44:42Z",
+        "updated_at": "2025-07-27T09:13:04Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 13318,
+          "total_downloads": 13334,
           "total_downloads_fmt": "13.3K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 3301,
+            "downloads": 3317,
             "downloads_fmt": "3.3K"
           }
         }
@@ -327,13 +327,55 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 1303,
+          "total_downloads": 1304,
           "total_downloads_fmt": "1.3K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 1303,
+            "downloads": 1304,
             "downloads_fmt": "1.3K"
+          }
+        }
+      }
+    },
+    "qwqcode/SAO-UI": {
+      "name": "SAO-UI",
+      "full_name": "qwqcode/SAO-UI",
+      "description": "Sword Art Online User Interface",
+      "url": "https://github.com/qwqcode/SAO-UI",
+      "homepage": null,
+      "language": "HTML",
+      "language_color": "#e34c26",
+      "stats": {
+        "stars": 13,
+        "stars_fmt": "13",
+        "forks": 4,
+        "forks_fmt": "4",
+        "watchers": 13,
+        "watchers_fmt": "13",
+        "issues": 0,
+        "issues_fmt": "0",
+        "size": 2122,
+        "size_fmt": "2.1K"
+      },
+      "dates": {
+        "created_at": "2019-01-20T14:34:30Z",
+        "updated_at": "2025-07-27T02:18:03Z",
+        "pushed_at": "2019-01-24T01:54:07Z"
+      },
+      "is_fork": false,
+      "is_archived": false,
+      "is_template": false,
+      "license": null,
+      "license_url": null,
+      "topics": [],
+      "package_stats": {
+        "github_releases": {
+          "url": "https://github.com/qwqcode/SAO-UI/releases",
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
+          "latest_release": {
+            "downloads_fmt": "0"
           }
         }
       }
@@ -372,48 +414,6 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/DesignPatterns/releases",
-          "total_downloads": 0,
-          "total_downloads_fmt": "0",
-          "latest_release": {
-            "downloads_fmt": "0"
-          }
-        }
-      }
-    },
-    "qwqcode/SAO-UI": {
-      "name": "SAO-UI",
-      "full_name": "qwqcode/SAO-UI",
-      "description": "Sword Art Online User Interface",
-      "url": "https://github.com/qwqcode/SAO-UI",
-      "homepage": null,
-      "language": "HTML",
-      "language_color": "#e34c26",
-      "stats": {
-        "stars": 12,
-        "stars_fmt": "12",
-        "forks": 4,
-        "forks_fmt": "4",
-        "watchers": 12,
-        "watchers_fmt": "12",
-        "issues": 0,
-        "issues_fmt": "0",
-        "size": 2122,
-        "size_fmt": "2.1K"
-      },
-      "dates": {
-        "created_at": "2019-01-20T14:34:30Z",
-        "updated_at": "2024-04-08T06:39:53Z",
-        "pushed_at": "2019-01-24T01:54:07Z"
-      },
-      "is_fork": false,
-      "is_archived": false,
-      "is_template": false,
-      "license": null,
-      "license_url": null,
-      "topics": [],
-      "package_stats": {
-        "github_releases": {
-          "url": "https://github.com/qwqcode/SAO-UI/releases",
           "total_downloads": 0,
           "total_downloads_fmt": "0",
           "latest_release": {
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1595,
+        "size": 1598,
         "size_fmt": "1.6K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-07-25T16:28:04Z",
-        "pushed_at": "2025-07-25T16:28:01Z"
+        "updated_at": "2025-07-26T16:25:39Z",
+        "pushed_at": "2025-07-26T16:25:36Z"
       },
       "is_fork": false,
       "is_archived": false,

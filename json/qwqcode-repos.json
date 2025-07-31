@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-07-30T16:14:47.389Z",
-  "total_stars": 3343,
+  "generated_at": "2025-07-31T16:14:59.276Z",
+  "total_stars": 3346,
   "total_stars_fmt": "3.3K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1986,
+        "stars": 1987,
         "stars_fmt": "2.0K",
         "forks": 157,
         "forks_fmt": "157",
-        "watchers": 1986,
+        "watchers": 1987,
         "watchers_fmt": "2.0K",
         "issues": 94,
         "issues_fmt": "94",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-07-29T20:52:11Z",
+        "updated_at": "2025-07-31T02:47:13Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -56,33 +56,33 @@
         "vue"
       ],
       "package_stats": {
-        "npm": {
-          "name": "artalk",
-          "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 3614,
-          "downloads_last_month_fmt": "3.6K",
-          "downloads_total": 97000,
-          "downloads_total_fmt": "97.0K",
-          "first_published": "2018-10-06T13:58:35.065Z",
-          "latest_version": "2.9.1"
-        },
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 182417,
-          "pull_count_fmt": "182.4K",
+          "pull_count": 183473,
+          "pull_count_fmt": "183.5K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
+        "npm": {
+          "name": "artalk",
+          "url": "https://www.npmjs.com/package/artalk",
+          "downloads_last_month": 3527,
+          "downloads_last_month_fmt": "3.5K",
+          "downloads_total": 96808,
+          "downloads_total_fmt": "96.8K",
+          "first_published": "2018-10-06T13:58:35.065Z",
+          "latest_version": "2.9.1"
+        },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12526,
+          "total_downloads": 12527,
           "total_downloads_fmt": "12.5K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 818,
-            "downloads_fmt": "818"
+            "downloads": 819,
+            "downloads_fmt": "819"
           }
         }
       }
@@ -96,20 +96,20 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1025,
+        "stars": 1027,
         "stars_fmt": "1.0K",
         "forks": 37,
         "forks_fmt": "37",
-        "watchers": 1025,
+        "watchers": 1027,
         "watchers_fmt": "1.0K",
-        "issues": 10,
-        "issues_fmt": "10",
+        "issues": 11,
+        "issues_fmt": "11",
         "size": 1371,
         "size_fmt": "1.4K"
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2025-07-27T17:36:04Z",
+        "updated_at": "2025-07-31T15:30:06Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 13379,
+          "total_downloads": 13394,
           "total_downloads_fmt": "13.4K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 3361,
+            "downloads": 3376,
             "downloads_fmt": "3.4K"
           }
         }
@@ -838,8 +838,8 @@
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-07-29T16:24:34Z",
-        "pushed_at": "2025-07-29T16:24:30Z"
+        "updated_at": "2025-07-30T16:29:06Z",
+        "pushed_at": "2025-07-30T16:29:03Z"
       },
       "is_fork": false,
       "is_archived": false,

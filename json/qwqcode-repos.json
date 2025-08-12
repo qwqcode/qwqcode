@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-11T16:14:16.695Z",
-  "total_stars": 3357,
+  "generated_at": "2025-08-12T16:14:04.581Z",
+  "total_stars": 3362,
   "total_stars_fmt": "3.4K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1995,
+        "stars": 1996,
         "stars_fmt": "2.0K",
         "forks": 159,
         "forks_fmt": "159",
-        "watchers": 1995,
+        "watchers": 1996,
         "watchers_fmt": "2.0K",
         "issues": 98,
         "issues_fmt": "98",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-08-11T14:24:37Z",
+        "updated_at": "2025-08-12T11:25:16Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 195774,
-          "pull_count_fmt": "195.8K",
+          "pull_count": 197017,
+          "pull_count_fmt": "197.0K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 3139,
-          "downloads_last_month_fmt": "3.1K",
-          "downloads_total": 93752,
-          "downloads_total_fmt": "93.8K",
+          "downloads_last_month": 3036,
+          "downloads_last_month_fmt": "3.0K",
+          "downloads_total": 93729,
+          "downloads_total_fmt": "93.7K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12552,
+          "total_downloads": 12553,
           "total_downloads_fmt": "12.6K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 844,
-            "downloads_fmt": "844"
+            "downloads": 845,
+            "downloads_fmt": "845"
           }
         }
       }
@@ -96,11 +96,11 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1030,
+        "stars": 1034,
         "stars_fmt": "1.0K",
         "forks": 37,
         "forks_fmt": "37",
-        "watchers": 1030,
+        "watchers": 1034,
         "watchers_fmt": "1.0K",
         "issues": 10,
         "issues_fmt": "10",
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2025-08-06T14:42:58Z",
+        "updated_at": "2025-08-12T14:42:31Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 13518,
+          "total_downloads": 13535,
           "total_downloads_fmt": "13.5K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 3500,
+            "downloads": 3517,
             "downloads_fmt": "3.5K"
           }
         }
@@ -327,13 +327,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 1340,
-          "total_downloads_fmt": "1.3K",
+          "total_downloads": 1360,
+          "total_downloads_fmt": "1.4K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 1340,
-            "downloads_fmt": "1.3K"
+            "downloads": 1360,
+            "downloads_fmt": "1.4K"
           }
         }
       }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1655,
+        "size": 1658,
         "size_fmt": "1.7K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-08-10T16:25:43Z",
-        "pushed_at": "2025-08-10T16:25:40Z"
+        "updated_at": "2025-08-11T16:29:04Z",
+        "pushed_at": "2025-08-11T16:29:01Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -850,8 +850,8 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/qwqcode/releases",
-          "total_downloads": 121,
-          "total_downloads_fmt": "121",
+          "total_downloads": 0,
+          "total_downloads_fmt": "0",
           "latest_release": {
             "downloads_fmt": "0"
           }

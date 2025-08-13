@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-08-12T16:14:04.581Z",
-  "total_stars": 3362,
+  "generated_at": "2025-08-13T16:11:01.181Z",
+  "total_stars": 3363,
   "total_stars_fmt": "3.4K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 1996,
+        "stars": 1997,
         "stars_fmt": "2.0K",
         "forks": 159,
         "forks_fmt": "159",
-        "watchers": 1996,
+        "watchers": 1997,
         "watchers_fmt": "2.0K",
         "issues": 98,
         "issues_fmt": "98",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-08-12T11:25:16Z",
+        "updated_at": "2025-08-13T10:14:11Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,18 +59,18 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 197017,
-          "pull_count_fmt": "197.0K",
+          "pull_count": 198236,
+          "pull_count_fmt": "198.2K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 3036,
+          "downloads_last_month": 3008,
           "downloads_last_month_fmt": "3.0K",
-          "downloads_total": 93729,
-          "downloads_total_fmt": "93.7K",
+          "downloads_total": 93629,
+          "downloads_total_fmt": "93.6K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 13535,
+          "total_downloads": 13545,
           "total_downloads_fmt": "13.5K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 3517,
+            "downloads": 3527,
             "downloads_fmt": "3.5K"
           }
         }
@@ -240,13 +240,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/qwquiver/releases",
-          "total_downloads": 159,
-          "total_downloads_fmt": "159",
+          "total_downloads": 161,
+          "total_downloads_fmt": "161",
           "latest_release": {
             "tag_name": "0.0.1",
             "published_at": "2021-01-13T16:31:41Z",
-            "downloads": 159,
-            "downloads_fmt": "159"
+            "downloads": 161,
+            "downloads_fmt": "161"
           }
         }
       }
@@ -327,12 +327,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 1360,
+          "total_downloads": 1364,
           "total_downloads_fmt": "1.4K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 1360,
+            "downloads": 1364,
             "downloads_fmt": "1.4K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1658,
+        "size": 1661,
         "size_fmt": "1.7K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-08-11T16:29:04Z",
-        "pushed_at": "2025-08-11T16:29:01Z"
+        "updated_at": "2025-08-12T16:27:52Z",
+        "pushed_at": "2025-08-12T16:27:49Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -850,8 +850,8 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/qwqcode/releases",
-          "total_downloads": 0,
-          "total_downloads_fmt": "0",
+          "total_downloads": 121,
+          "total_downloads_fmt": "121",
           "latest_release": {
             "downloads_fmt": "0"
           }

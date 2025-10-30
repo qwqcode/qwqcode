@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-10-29T16:14:31.766Z",
-  "total_stars": 3546,
+  "generated_at": "2025-10-30T16:14:22.181Z",
+  "total_stars": 3548,
   "total_stars_fmt": "3.5K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2105,
+        "stars": 2107,
         "stars_fmt": "2.1K",
         "forks": 166,
         "forks_fmt": "166",
-        "watchers": 2105,
+        "watchers": 2107,
         "watchers_fmt": "2.1K",
         "issues": 99,
         "issues_fmt": "99",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2025-10-29T07:04:11Z",
+        "updated_at": "2025-10-30T15:48:44Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,29 +59,29 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 297867,
-          "pull_count_fmt": "297.9K",
+          "pull_count": 299124,
+          "pull_count_fmt": "299.1K",
           "star_count": 3,
           "star_count_fmt": "3"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4583,
+          "downloads_last_month": 4639,
           "downloads_last_month_fmt": "4.6K",
-          "downloads_total": 88193,
-          "downloads_total_fmt": "88.2K",
+          "downloads_total": 88054,
+          "downloads_total_fmt": "88.1K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 12965,
+          "total_downloads": 12969,
           "total_downloads_fmt": "13.0K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 1250,
+            "downloads": 1254,
             "downloads_fmt": "1.3K"
           }
         }
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 14518,
+          "total_downloads": 14531,
           "total_downloads_fmt": "14.5K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 4492,
+            "downloads": 4505,
             "downloads_fmt": "4.5K"
           }
         }
@@ -327,12 +327,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 1703,
+          "total_downloads": 1710,
           "total_downloads_fmt": "1.7K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 1703,
+            "downloads": 1710,
             "downloads_fmt": "1.7K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 1879,
+        "size": 1885,
         "size_fmt": "1.9K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2025-10-28T16:28:06Z",
-        "pushed_at": "2025-10-28T16:28:02Z"
+        "updated_at": "2025-10-29T16:28:09Z",
+        "pushed_at": "2025-10-29T16:28:06Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -976,13 +976,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/semantic-release-test/releases",
-          "total_downloads": 853,
-          "total_downloads_fmt": "853",
+          "total_downloads": 854,
+          "total_downloads_fmt": "854",
           "latest_release": {
             "tag_name": "v1.1.16",
             "published_at": "2023-01-26T11:56:32Z",
-            "downloads": 33,
-            "downloads_fmt": "33"
+            "downloads": 34,
+            "downloads_fmt": "34"
           }
         }
       }

@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 November 2025 - To: 30 December 2025
+From: 01 December 2025 - To: 31 December 2025
 
-Total Time: 110 hrs 27 mins
+Total Time: 107 hrs 7 mins
 
-Go           64 hrs 29 mins  ██████████████▓░░░░░░░░░░   58.39 %
-Vue.js       16 hrs 46 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Python       16 hrs 41 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.12 %
-TypeScript   4 hrs 36 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 %
-Other        2 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.67 %
+Go           65 hrs 26 mins  ███████████████▒░░░░░░░░░   61.09 %
+Vue.js       15 hrs 30 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.47 %
+Python       15 hrs 17 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+TypeScript   3 hrs 13 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
+Other        2 hrs 53 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
 ```
 
 <!--END_SECTION:waka-->

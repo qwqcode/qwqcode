@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T16:17:34.301Z",
-  "total_stars": 3759,
+  "generated_at": "2026-03-22T16:17:42.049Z",
+  "total_stars": 3760,
   "total_stars_fmt": "3.8K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -59,18 +59,18 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 497425,
-          "pull_count_fmt": "497.4K",
+          "pull_count": 498870,
+          "pull_count_fmt": "498.9K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4435,
+          "downloads_last_month": 4408,
           "downloads_last_month_fmt": "4.4K",
-          "downloads_total": 78910,
-          "downloads_total_fmt": "78.9K",
+          "downloads_total": 78703,
+          "downloads_total_fmt": "78.7K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
@@ -96,11 +96,11 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1196,
+        "stars": 1197,
         "stars_fmt": "1.2K",
         "forks": 38,
         "forks_fmt": "38",
-        "watchers": 1196,
+        "watchers": 1197,
         "watchers_fmt": "1.2K",
         "issues": 12,
         "issues_fmt": "12",
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2026-03-20T03:20:49Z",
+        "updated_at": "2026-03-22T12:43:23Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2250,
+        "size": 2253,
         "size_fmt": "2.3K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-03-20T16:47:07Z",
-        "pushed_at": "2026-03-20T16:47:03Z"
+        "updated_at": "2026-03-21T16:32:19Z",
+        "pushed_at": "2026-03-21T16:32:15Z"
       },
       "is_fork": false,
       "is_archived": false,

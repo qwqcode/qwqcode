@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-24T16:51:21.476Z",
-  "total_stars": 3759,
+  "generated_at": "2026-03-25T16:52:49.297Z",
+  "total_stars": 3760,
   "total_stars_fmt": "3.8K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2219,
+        "stars": 2220,
         "stars_fmt": "2.2K",
         "forks": 185,
         "forks_fmt": "185",
-        "watchers": 2219,
+        "watchers": 2220,
         "watchers_fmt": "2.2K",
         "issues": 105,
         "issues_fmt": "105",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-03-20T07:09:07Z",
+        "updated_at": "2026-03-25T16:36:38Z",
         "pushed_at": "2025-06-10T10:44:39Z"
       },
       "is_fork": false,
@@ -59,18 +59,18 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 501872,
-          "pull_count_fmt": "501.9K",
+          "pull_count": 503415,
+          "pull_count_fmt": "503.4K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 5005,
-          "downloads_last_month_fmt": "5.0K",
-          "downloads_total": 78844,
-          "downloads_total_fmt": "78.8K",
+          "downloads_last_month": 5398,
+          "downloads_last_month_fmt": "5.4K",
+          "downloads_total": 79223,
+          "downloads_total_fmt": "79.2K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 16117,
+          "total_downloads": 16121,
           "total_downloads_fmt": "16.1K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 6064,
+            "downloads": 6068,
             "downloads_fmt": "6.1K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2261,
+        "size": 2264,
         "size_fmt": "2.3K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-03-23T16:56:39Z",
-        "pushed_at": "2026-03-23T16:56:35Z"
+        "updated_at": "2026-03-24T17:00:38Z",
+        "pushed_at": "2026-03-24T17:00:30Z"
       },
       "is_fork": false,
       "is_archived": false,

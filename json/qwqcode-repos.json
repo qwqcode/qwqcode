@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-03-29T16:23:37.055Z",
+  "generated_at": "2026-03-30T16:45:14.968Z",
   "total_stars": 3761,
   "total_stars_fmt": "3.8K",
   "total_repos": 26,
@@ -59,18 +59,18 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 509597,
-          "pull_count_fmt": "509.6K",
+          "pull_count": 511167,
+          "pull_count_fmt": "511.2K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 5460,
-          "downloads_last_month_fmt": "5.5K",
-          "downloads_total": 78799,
-          "downloads_total_fmt": "78.8K",
+          "downloads_last_month": 5352,
+          "downloads_last_month_fmt": "5.4K",
+          "downloads_total": 78557,
+          "downloads_total_fmt": "78.6K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 16156,
+          "total_downloads": 16171,
           "total_downloads_fmt": "16.2K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 6103,
+            "downloads": 6114,
             "downloads_fmt": "6.1K"
           }
         }
@@ -285,12 +285,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 2331,
+          "total_downloads": 2335,
           "total_downloads_fmt": "2.3K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 2331,
+            "downloads": 2335,
             "downloads_fmt": "2.3K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2276,
+        "size": 2281,
         "size_fmt": "2.3K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-03-28T16:36:35Z",
-        "pushed_at": "2026-03-28T16:36:32Z"
+        "updated_at": "2026-03-29T16:37:27Z",
+        "pushed_at": "2026-03-29T16:37:24Z"
       },
       "is_fork": false,
       "is_archived": false,

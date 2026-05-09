@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-08T17:01:01.306Z",
-  "total_stars": 3810,
+  "generated_at": "2026-05-09T16:40:13.259Z",
+  "total_stars": 3816,
   "total_stars_fmt": "3.8K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,21 +14,21 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2251,
+        "stars": 2253,
         "stars_fmt": "2.3K",
-        "forks": 190,
-        "forks_fmt": "190",
-        "watchers": 2251,
+        "forks": 191,
+        "forks_fmt": "191",
+        "watchers": 2253,
         "watchers_fmt": "2.3K",
-        "issues": 93,
-        "issues_fmt": "93",
-        "size": 13696,
-        "size_fmt": "13.7K"
+        "issues": 94,
+        "issues_fmt": "94",
+        "size": 13826,
+        "size_fmt": "13.8K"
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-05-08T05:19:17Z",
-        "pushed_at": "2026-05-06T12:14:34Z"
+        "updated_at": "2026-05-09T15:59:42Z",
+        "pushed_at": "2026-05-09T00:54:06Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 551097,
-          "pull_count_fmt": "551.1K",
+          "pull_count": 551724,
+          "pull_count_fmt": "551.7K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 4826,
-          "downloads_last_month_fmt": "4.8K",
-          "downloads_total": 76676,
+          "downloads_last_month": 4861,
+          "downloads_last_month_fmt": "4.9K",
+          "downloads_total": 76677,
           "downloads_total_fmt": "76.7K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 14163,
+          "total_downloads": 14167,
           "total_downloads_fmt": "14.2K",
           "latest_release": {
             "tag_name": "v2.9.1",
             "published_at": "2024-09-18T16:00:19Z",
-            "downloads": 2246,
-            "downloads_fmt": "2.2K"
+            "downloads": 2250,
+            "downloads_fmt": "2.3K"
           }
         }
       }
@@ -96,20 +96,20 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1214,
+        "stars": 1216,
         "stars_fmt": "1.2K",
         "forks": 40,
         "forks_fmt": "40",
-        "watchers": 1214,
+        "watchers": 1216,
         "watchers_fmt": "1.2K",
-        "issues": 15,
-        "issues_fmt": "15",
+        "issues": 16,
+        "issues_fmt": "16",
         "size": 1371,
         "size_fmt": "1.4K"
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2026-05-08T16:16:55Z",
+        "updated_at": "2026-05-09T09:45:47Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 16567,
+          "total_downloads": 16577,
           "total_downloads_fmt": "16.6K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 6493,
+            "downloads": 6503,
             "downloads_fmt": "6.5K"
           }
         }
@@ -260,12 +260,12 @@
       "language": "Python",
       "language_color": "#3572A5",
       "stats": {
-        "stars": 28,
-        "stars_fmt": "28",
+        "stars": 29,
+        "stars_fmt": "29",
         "forks": 3,
         "forks_fmt": "3",
-        "watchers": 28,
-        "watchers_fmt": "28",
+        "watchers": 29,
+        "watchers_fmt": "29",
         "issues": 0,
         "issues_fmt": "0",
         "size": 35,
@@ -273,7 +273,7 @@
       },
       "dates": {
         "created_at": "2024-11-12T05:38:52Z",
-        "updated_at": "2026-04-25T13:59:46Z",
+        "updated_at": "2026-05-09T09:52:48Z",
         "pushed_at": "2024-11-18T14:12:26Z"
       },
       "is_fork": false,
@@ -285,12 +285,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 2500,
+          "total_downloads": 2503,
           "total_downloads_fmt": "2.5K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 2500,
+            "downloads": 2503,
             "downloads_fmt": "2.5K"
           }
         }
@@ -347,12 +347,12 @@
       "language": "HTML",
       "language_color": "#e34c26",
       "stats": {
-        "stars": 14,
-        "stars_fmt": "14",
+        "stars": 15,
+        "stars_fmt": "15",
         "forks": 4,
         "forks_fmt": "4",
-        "watchers": 14,
-        "watchers_fmt": "14",
+        "watchers": 15,
+        "watchers_fmt": "15",
         "issues": 0,
         "issues_fmt": "0",
         "size": 2122,
@@ -360,7 +360,7 @@
       },
       "dates": {
         "created_at": "2019-01-20T14:34:30Z",
-        "updated_at": "2025-08-22T20:51:01Z",
+        "updated_at": "2026-05-09T03:13:46Z",
         "pushed_at": "2019-01-24T01:54:07Z"
       },
       "is_fork": false,
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2359,
+        "size": 2362,
         "size_fmt": "2.4K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-05-07T17:48:36Z",
-        "pushed_at": "2026-05-07T17:48:32Z"
+        "updated_at": "2026-05-08T17:19:35Z",
+        "pushed_at": "2026-05-08T17:19:30Z"
       },
       "is_fork": false,
       "is_archived": false,

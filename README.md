@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 April 2026 - To: 17 May 2026
+From: 18 April 2026 - To: 18 May 2026
 
-Total Time: 145 hrs 53 mins
+Total Time: 146 hrs 50 mins
 
-Go                         45 hrs 5 mins         ███████▓░░░░░░░░░░░░░░░░░   30.90 %
-Vue                        29 hrs 13 mins        █████░░░░░░░░░░░░░░░░░░░░   20.04 %
-TypeScript                 26 hrs 4 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.87 %
-Markdown                   13 hrs 11 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.04 %
-Other                      8 hrs 38 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.93 %
+Go                         53 hrs 22 mins        █████████░░░░░░░░░░░░░░░░   36.34 %
+Vue                        27 hrs 54 mins        ████▓░░░░░░░░░░░░░░░░░░░░   19.01 %
+TypeScript                 23 hrs 33 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.05 %
+Markdown                   13 hrs 5 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.91 %
+JSON                       7 hrs 47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.31 %
 ```
 
 <!--END_SECTION:waka-->

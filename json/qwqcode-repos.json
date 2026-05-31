@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T16:51:16.375Z",
-  "total_stars": 3840,
+  "generated_at": "2026-05-31T16:55:25.101Z",
+  "total_stars": 3841,
   "total_stars_fmt": "3.8K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2264,
+        "stars": 2265,
         "stars_fmt": "2.3K",
-        "forks": 194,
-        "forks_fmt": "194",
-        "watchers": 2264,
+        "forks": 195,
+        "forks_fmt": "195",
+        "watchers": 2265,
         "watchers_fmt": "2.3K",
         "issues": 100,
         "issues_fmt": "100",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-05-29T23:03:38Z",
+        "updated_at": "2026-05-31T05:38:40Z",
         "pushed_at": "2026-05-14T22:42:32Z"
       },
       "is_fork": false,
@@ -59,8 +59,8 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 566575,
-          "pull_count_fmt": "566.6K",
+          "pull_count": 567691,
+          "pull_count_fmt": "567.7K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
@@ -69,8 +69,8 @@
           "url": "https://www.npmjs.com/package/artalk",
           "downloads_last_month": 5282,
           "downloads_last_month_fmt": "5.3K",
-          "downloads_total": 75702,
-          "downloads_total_fmt": "75.7K",
+          "downloads_total": 75792,
+          "downloads_total_fmt": "75.8K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.9.1"
         },
@@ -141,13 +141,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 16826,
+          "total_downloads": 16839,
           "total_downloads_fmt": "16.8K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 6748,
-            "downloads_fmt": "6.7K"
+            "downloads": 6761,
+            "downloads_fmt": "6.8K"
           }
         }
       }
@@ -240,13 +240,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/qwquiver/releases",
-          "total_downloads": 180,
-          "total_downloads_fmt": "180",
+          "total_downloads": 181,
+          "total_downloads_fmt": "181",
           "latest_release": {
             "tag_name": "0.0.1",
             "published_at": "2021-01-13T16:31:41Z",
-            "downloads": 180,
-            "downloads_fmt": "180"
+            "downloads": 181,
+            "downloads_fmt": "181"
           }
         }
       }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2419,
+        "size": 2423,
         "size_fmt": "2.4K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-05-29T18:34:35Z",
-        "pushed_at": "2026-05-29T18:34:30Z"
+        "updated_at": "2026-05-30T17:06:50Z",
+        "pushed_at": "2026-05-30T17:06:47Z"
       },
       "is_fork": false,
       "is_archived": false,
@@ -850,8 +850,8 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/qwqcode/releases",
-          "total_downloads": 125,
-          "total_downloads_fmt": "125",
+          "total_downloads": 128,
+          "total_downloads_fmt": "128",
           "latest_release": {
             "downloads_fmt": "0"
           }

@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 May 2026 - To: 09 June 2026
+From: 12 May 2026 - To: 11 June 2026
 
-Total Time: 128 hrs 15 mins
+Total Time: 125 hrs 16 mins
 
-Go                         56 hrs 57 mins        ███████████░░░░░░░░░░░░░░   44.41 %
-Vue                        28 hrs 41 mins        █████▓░░░░░░░░░░░░░░░░░░░   22.36 %
-Markdown                   13 hrs 33 mins        ██▓░░░░░░░░░░░░░░░░░░░░░░   10.57 %
-TypeScript                 8 hrs 54 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-YAML                       5 hrs 23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Go                         58 hrs 30 mins        ███████████▓░░░░░░░░░░░░░   46.70 %
+Vue                        27 hrs 15 mins        █████▒░░░░░░░░░░░░░░░░░░░   21.76 %
+Markdown                   11 hrs 27 mins        ██▒░░░░░░░░░░░░░░░░░░░░░░   09.15 %
+TypeScript                 9 hrs 9 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.31 %
+YAML                       5 hrs 17 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 %
 ```
 
 <!--END_SECTION:waka-->

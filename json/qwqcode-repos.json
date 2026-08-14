@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-13T16:43:29.385Z",
+  "generated_at": "2026-08-14T16:39:27.769Z",
   "total_stars": 3929,
   "total_stars_fmt": "3.9K",
   "total_repos": 26,
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2317,
+        "stars": 2316,
         "stars_fmt": "2.3K",
         "forks": 203,
         "forks_fmt": "203",
-        "watchers": 2317,
+        "watchers": 2316,
         "watchers_fmt": "2.3K",
         "issues": 102,
         "issues_fmt": "102",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-08-12T21:29:53Z",
+        "updated_at": "2026-08-14T13:13:21Z",
         "pushed_at": "2026-08-12T20:39:18Z"
       },
       "is_fork": false,
@@ -59,8 +59,8 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 653668,
-          "pull_count_fmt": "653.7K",
+          "pull_count": 654893,
+          "pull_count_fmt": "654.9K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
@@ -69,20 +69,20 @@
           "url": "https://www.npmjs.com/package/artalk",
           "downloads_last_month": 6103,
           "downloads_last_month_fmt": "6.1K",
-          "downloads_total": 76906,
-          "downloads_total_fmt": "76.9K",
+          "downloads_total": 77229,
+          "downloads_total_fmt": "77.2K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.10.0"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 15786,
+          "total_downloads": 15796,
           "total_downloads_fmt": "15.8K",
           "latest_release": {
             "tag_name": "v2.10.0",
             "published_at": "2026-07-24T19:21:58Z",
-            "downloads": 270,
-            "downloads_fmt": "270"
+            "downloads": 279,
+            "downloads_fmt": "279"
           }
         }
       }
@@ -96,11 +96,11 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1260,
+        "stars": 1261,
         "stars_fmt": "1.3K",
         "forks": 38,
         "forks_fmt": "38",
-        "watchers": 1260,
+        "watchers": 1261,
         "watchers_fmt": "1.3K",
         "issues": 16,
         "issues_fmt": "16",
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2026-08-13T02:16:37Z",
+        "updated_at": "2026-08-14T14:25:01Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 17648,
-          "total_downloads_fmt": "17.6K",
+          "total_downloads": 17661,
+          "total_downloads_fmt": "17.7K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 7564,
+            "downloads": 7577,
             "downloads_fmt": "7.6K"
           }
         }
@@ -195,13 +195,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/Nacollector/releases",
-          "total_downloads": 924,
-          "total_downloads_fmt": "924",
+          "total_downloads": 925,
+          "total_downloads_fmt": "925",
           "latest_release": {
             "tag_name": "1.3.1.0",
             "published_at": "2019-07-14T16:41:40Z",
-            "downloads": 534,
-            "downloads_fmt": "534"
+            "downloads": 535,
+            "downloads_fmt": "535"
           }
         }
       }
@@ -285,12 +285,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 2922,
+          "total_downloads": 2930,
           "total_downloads_fmt": "2.9K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 2922,
+            "downloads": 2930,
             "downloads_fmt": "2.9K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2614,
+        "size": 2617,
         "size_fmt": "2.6K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-08-12T16:57:07Z",
-        "pushed_at": "2026-08-12T16:56:59Z"
+        "updated_at": "2026-08-13T16:56:50Z",
+        "pushed_at": "2026-08-13T16:56:28Z"
       },
       "is_fork": false,
       "is_archived": false,

@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 17 July 2026 - To: 16 August 2026
+From: 18 July 2026 - To: 17 August 2026
 
-Total Time: 188 hrs 29 mins
+Total Time: 188 hrs 2 mins
 
-Markdown      69 hrs 43 mins        █████████▒░░░░░░░░░░░░░░░   36.99 %
-Go            60 hrs 18 mins        ████████░░░░░░░░░░░░░░░░░   31.99 %
-Python        13 hrs 38 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-Other         9 hrs 15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-YAML          6 hrs 38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Markdown      67 hrs 37 mins        █████████░░░░░░░░░░░░░░░░   35.96 %
+Go            62 hrs 31 mins        ████████▒░░░░░░░░░░░░░░░░   33.25 %
+Python        12 hrs 9 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other         10 hrs 54 mins        █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
+YAML          6 hrs 38 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
 ```
 
 <!--END_SECTION:waka-->

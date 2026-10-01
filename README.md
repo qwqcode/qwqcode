@@ -23,15 +23,15 @@ B412 FDEC 74F6 5B1E 45B0  CE62 D46E 0F0E EA7C 136A
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 29 September 2026
+From: 31 August 2026 - To: 30 September 2026
 
-Total Time: 185 hrs 6 mins
+Total Time: 180 hrs 16 mins
 
-Go                         62 hrs 1 min          ████████▒░░░░░░░░░░░░░░░░   33.51 %
-Markdown                   34 hrs 33 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.67 %
-Other                      30 hrs 37 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.54 %
-Python                     13 hrs 23 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
-TypeScript                 11 hrs 41 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.32 %
+Go                         56 hrs 9 mins         ███████▓░░░░░░░░░░░░░░░░░   31.15 %
+Markdown                   34 hrs 52 mins        █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Other                      32 hrs 56 mins        ████▓░░░░░░░░░░░░░░░░░░░░   18.27 %
+Python                     13 hrs 8 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.29 %
+Vue                        11 hrs 53 mins        █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
 ```
 
 <!--END_SECTION:waka-->

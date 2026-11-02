@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T19:57:27.136Z",
-  "total_stars": 4018,
+  "generated_at": "2026-11-02T23:14:46.040Z",
+  "total_stars": 4023,
   "total_stars_fmt": "4.0K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2357,
+        "stars": 2360,
         "stars_fmt": "2.4K",
         "forks": 213,
         "forks_fmt": "213",
-        "watchers": 2357,
+        "watchers": 2360,
         "watchers_fmt": "2.4K",
         "issues": 96,
         "issues_fmt": "96",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-10-31T16:47:02Z",
+        "updated_at": "2026-11-02T17:00:45Z",
         "pushed_at": "2026-10-28T16:36:14Z"
       },
       "is_fork": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 737074,
-          "pull_count_fmt": "737.1K",
+          "pull_count": 738301,
+          "pull_count_fmt": "738.3K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 10508,
-          "downloads_last_month_fmt": "10.5K",
-          "downloads_total": 90231,
-          "downloads_total_fmt": "90.2K",
+          "downloads_last_month": 8854,
+          "downloads_last_month_fmt": "8.9K",
+          "downloads_total": 90928,
+          "downloads_total_fmt": "90.9K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.10.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 16952,
+          "total_downloads": 16966,
           "total_downloads_fmt": "17.0K",
           "latest_release": {
             "tag_name": "v2.10.1",
             "published_at": "2026-10-25T15:33:33Z",
-            "downloads": 136,
-            "downloads_fmt": "136"
+            "downloads": 141,
+            "downloads_fmt": "141"
           }
         }
       }
@@ -96,11 +96,11 @@
       "language": "C#",
       "language_color": "#178600",
       "stats": {
-        "stars": 1305,
+        "stars": 1307,
         "stars_fmt": "1.3K",
-        "forks": 40,
-        "forks_fmt": "40",
-        "watchers": 1305,
+        "forks": 41,
+        "forks_fmt": "41",
+        "watchers": 1307,
         "watchers_fmt": "1.3K",
         "issues": 16,
         "issues_fmt": "16",
@@ -109,7 +109,7 @@
       },
       "dates": {
         "created_at": "2019-06-23T19:10:12Z",
-        "updated_at": "2026-11-01T01:51:34Z",
+        "updated_at": "2026-11-02T13:14:53Z",
         "pushed_at": "2025-03-01T12:36:35Z"
       },
       "is_fork": false,
@@ -141,12 +141,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 18794,
+          "total_downloads": 18818,
           "total_downloads_fmt": "18.8K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 8671,
+            "downloads": 8695,
             "downloads_fmt": "8.7K"
           }
         }
@@ -285,12 +285,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 3317,
+          "total_downloads": 3320,
           "total_downloads_fmt": "3.3K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 3317,
+            "downloads": 3320,
             "downloads_fmt": "3.3K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2805,
+        "size": 2809,
         "size_fmt": "2.8K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-10-31T19:45:22Z",
-        "pushed_at": "2026-10-31T19:45:18Z"
+        "updated_at": "2026-11-01T20:11:23Z",
+        "pushed_at": "2026-11-01T20:11:20Z"
       },
       "is_fork": false,
       "is_archived": false,

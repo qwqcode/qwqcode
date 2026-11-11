@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-10T21:32:55.070Z",
-  "total_stars": 4030,
+  "generated_at": "2026-11-11T22:21:37.623Z",
+  "total_stars": 4031,
   "total_stars_fmt": "4.0K",
   "total_repos": 26,
   "total_repos_fmt": "26",
@@ -14,11 +14,11 @@
       "language": "Go",
       "language_color": "#00ADD8",
       "stats": {
-        "stars": 2366,
+        "stars": 2367,
         "stars_fmt": "2.4K",
         "forks": 213,
         "forks_fmt": "213",
-        "watchers": 2366,
+        "watchers": 2367,
         "watchers_fmt": "2.4K",
         "issues": 94,
         "issues_fmt": "94",
@@ -27,7 +27,7 @@
       },
       "dates": {
         "created_at": "2018-10-02T09:53:12Z",
-        "updated_at": "2026-11-10T12:01:42Z",
+        "updated_at": "2026-11-11T17:04:55Z",
         "pushed_at": "2026-11-06T17:20:29Z"
       },
       "is_fork": false,
@@ -59,30 +59,30 @@
         "docker": {
           "name": "artalk/artalk-go",
           "url": "https://hub.docker.com/r/artalk/artalk-go",
-          "pull_count": 746557,
-          "pull_count_fmt": "746.6K",
+          "pull_count": 747632,
+          "pull_count_fmt": "747.6K",
           "star_count": 4,
           "star_count_fmt": "4"
         },
         "npm": {
           "name": "artalk",
           "url": "https://www.npmjs.com/package/artalk",
-          "downloads_last_month": 10913,
-          "downloads_last_month_fmt": "10.9K",
-          "downloads_total": 95387,
-          "downloads_total_fmt": "95.4K",
+          "downloads_last_month": 11203,
+          "downloads_last_month_fmt": "11.2K",
+          "downloads_total": 95917,
+          "downloads_total_fmt": "95.9K",
           "first_published": "2018-10-06T13:58:35.065Z",
           "latest_version": "2.10.1"
         },
         "github_releases": {
           "url": "https://github.com/ArtalkJS/Artalk/releases",
-          "total_downloads": 17386,
+          "total_downloads": 17412,
           "total_downloads_fmt": "17.4K",
           "latest_release": {
             "tag_name": "v2.10.1",
             "published_at": "2026-10-25T15:33:33Z",
-            "downloads": 338,
-            "downloads_fmt": "338"
+            "downloads": 347,
+            "downloads_fmt": "347"
           }
         }
       }
@@ -98,8 +98,8 @@
       "stats": {
         "stars": 1308,
         "stars_fmt": "1.3K",
-        "forks": 41,
-        "forks_fmt": "41",
+        "forks": 40,
+        "forks_fmt": "40",
         "watchers": 1308,
         "watchers_fmt": "1.3K",
         "issues": 16,
@@ -141,13 +141,13 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/SubRenamer/releases",
-          "total_downloads": 18963,
+          "total_downloads": 18987,
           "total_downloads_fmt": "19.0K",
           "latest_release": {
             "tag_name": "v2.4.0",
             "published_at": "2025-01-10T16:42:38Z",
-            "downloads": 8840,
-            "downloads_fmt": "8.8K"
+            "downloads": 8864,
+            "downloads_fmt": "8.9K"
           }
         }
       }
@@ -285,12 +285,12 @@
       "package_stats": {
         "github_releases": {
           "url": "https://github.com/qwqcode/ffsubsync-bin/releases",
-          "total_downloads": 3355,
+          "total_downloads": 3358,
           "total_downloads_fmt": "3.4K",
           "latest_release": {
             "tag_name": "v0.4.26",
             "published_at": "2024-11-18T14:19:07Z",
-            "downloads": 3355,
+            "downloads": 3358,
             "downloads_fmt": "3.4K"
           }
         }
@@ -833,13 +833,13 @@
         "watchers_fmt": "0",
         "issues": 1,
         "issues_fmt": "1",
-        "size": 2811,
+        "size": 2812,
         "size_fmt": "2.8K"
       },
       "dates": {
         "created_at": "2020-08-12T08:25:32Z",
-        "updated_at": "2026-11-09T23:57:27Z",
-        "pushed_at": "2026-11-09T23:57:23Z"
+        "updated_at": "2026-11-10T22:33:00Z",
+        "pushed_at": "2026-11-10T21:38:54Z"
       },
       "is_fork": false,
       "is_archived": false,
